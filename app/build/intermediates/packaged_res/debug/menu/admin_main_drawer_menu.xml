@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/admin_dashboard"
+            android:icon="@drawable/home"
+            android:title="Dashboard"/>
+
+        <item
+            android:id="@+id/admin_driver_register"
+            android:icon="@drawable/addperson"
+            android:title="Driver Registration"/>
+
+        <item
+            android:id="@+id/admin_add_task"
+            android:icon="@drawable/addtask"
+            android:title="Job Assignation"/>
+
+        <item
+            android:id="@+id/admin_view_drivers"
+            android:icon="@drawable/viewdrivers"
+            android:title="View Drivers"/>
+
+        <item
+            android:id="@+id/admin_view_jobs"
+            android:icon="@drawable/viewjobs"
+            android:title="View Jobs"/>
+
+    </group>
+
+</menu>
