@@ -12,6 +12,7 @@
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_delivery_info.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_driver_registration.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_employee_dashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_employee_navigation_drawer_base.xml" value="0.35643115942028986" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_job_assign.xml" value="0.35643115942028986" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_main.xml" value="0.35643115942028986" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_maps.xml" value="0.35643115942028986" />
@@ -23,10 +24,12 @@
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/admin_main_nav_drawer.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/admin_main_toolbar.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/e_dashboard.xml" value="0.35643115942028986" />
+        <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/employee_content_layout.xml" value="0.35643115942028986" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/main_drawer_header.xml" value="0.35643115942028986" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/main_nav_drawer.xml" value="0.35643115942028986" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/main_toolbar.xml" value="0.35643115942028986" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/menu/admin_main_drawer_menu.xml" value="0.33" />
+        <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/menu/employee_main_drawer_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Jasel/Desktop/JObandoTrucking-master/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/Jasel/Desktop/JObandoTrucking-master/app/src/main/res/layout/activity_delivery_info.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Jasel/Desktop/JObandoTrucking-master/app/src/main/res/layout/activity_driver_registration.xml" value="0.36666666666666664" />

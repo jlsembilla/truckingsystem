@@ -2826,6 +2826,11 @@ id edit_query
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
 id elastic
+id employee_dashboard
+id employee_delivery_info
+id employee_maps
+id employee_past_records
+id employee_working_hours
 id end
 id endToStart
 id enterAlways
@@ -3257,6 +3262,11 @@ layout activity_admin_navigation_drawer_base
 layout activity_admin_view_drivers
 layout activity_admin_view_jobs
 layout activity_employee_dashboard
+layout activity_employee_delivery_info
+layout activity_employee_maps_directions
+layout activity_employee_navigation_drawer_base
+layout activity_employee_past_records
+layout activity_employee_working_hours
 layout activity_main
 layout admin_content_layout
 layout custom_dialog
@@ -3275,6 +3285,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout employee_content_layout
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
@@ -3351,6 +3362,7 @@ layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu admin_main_drawer_menu
+menu employee_main_drawer_menu
 menu example_menu
 menu example_menu2
 mipmap ic_launcher

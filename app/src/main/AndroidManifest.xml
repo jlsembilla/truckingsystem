@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JObandoTrucking">
         <activity
+            android:name=".Employee_Past_Records"
+            android:exported="false" />
+        <activity
+            android:name=".Employee_Delivery_Info"
+            android:exported="false" />
+        <activity
+            android:name=".Employee_Working_Hours"
+            android:exported="false" />
+        <activity
+            android:name=".Employee_Maps_Directions"
+            android:exported="false" />
+        <activity
+            android:name=".Employee_Navigation_Drawer_Base"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

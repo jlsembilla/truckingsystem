@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-63:12
 MERGED from [androidx.databinding:viewbinding:7.1.3] C:\Users\Jasel\.gradle\caches\transforms-3\1d179d97fb359b5de901cf9a54f548be\transformed\viewbinding-7.1.3\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.4.2] C:\Users\Jasel\.gradle\caches\transforms-3\311861f2422828a093051ea5b8b8a400\transformed\navigation-ui-2.4.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Jasel\.gradle\caches\transforms-3\e172b6bbc781f1df47ba63a5995fea8d\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
@@ -70,25 +70,25 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Jasel\.gradle\caches\transform
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\1ff792657c023d58aece05eb4b4d836d\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\d2e2a92c3df720a2072020caebce3bed\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.44.1] C:\Users\Jasel\.gradle\caches\transforms-3\7989a8bee30985b6c63a5eb7a1a7bcda\transformed\grpc-android-1.44.1\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-63:12
 	package
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-63:12
 		INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-48:12
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:1-63:12
 		INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:5:5-46:19
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:5:5-61:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Jasel\.gradle\caches\transforms-3\e172b6bbc781f1df47ba63a5995fea8d\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Jasel\.gradle\caches\transforms-3\e172b6bbc781f1df47ba63a5995fea8d\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Jasel\.gradle\caches\transforms-3\e74577644027f8ffbf87e2dfffc13091\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -135,70 +135,100 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Jasel\.gradle\cach
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:11:9-53
-activity#com.jobando.jobandotrucking.MainActivity
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:12:9-20:20
+activity#com.jobando.jobandotrucking.Employee_Past_Records
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:12:9-14:40
 	android:exported
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:13:13-41
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:15:13-19:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:16:17-69
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:13:13-50
+activity#com.jobando.jobandotrucking.Employee_Delivery_Info
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:16:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:18:17-77
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:16:13-51
+activity#com.jobando.jobandotrucking.Employee_Working_Hours
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:18:27-74
-activity#com.jobando.jobandotrucking.Admin_View_Jobs
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:19:13-51
+activity#com.jobando.jobandotrucking.Employee_Maps_Directions
 ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:22:13-44
-activity#com.jobando.jobandotrucking.Admin_View_Drivers
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:22:13-53
+activity#com.jobando.jobandotrucking.Employee_Navigation_Drawer_Base
 ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:25:13-47
-activity#com.jobando.jobandotrucking.Admin_Assign_Job
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:27:9-29:40
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:25:13-60
+activity#com.jobando.jobandotrucking.MainActivity
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:27:9-35:20
 	android:exported
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:29:13-37
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:29:13-36
 	android:name
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:28:13-45
-activity#com.jobando.jobandotrucking.Admin_Driver_Registration
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:30:9-32:40
-	android:exported
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:32:13-37
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:28:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:31:13-54
-activity#com.jobando.jobandotrucking.Admin_Navigation_Drawer_Base
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:33:9-35:40
-	android:exported
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:35:13-37
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:34:13-57
-activity#com.jobando.jobandotrucking.Admin_Dashboard
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:33:27-74
+activity#com.jobando.jobandotrucking.Admin_View_Jobs
 ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:36:9-38:40
 	android:exported
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:38:13-37
 	android:name
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:37:13-44
-activity#com.jobando.jobandotrucking.Employee_Dashboard
+activity#com.jobando.jobandotrucking.Admin_View_Drivers
 ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:39:9-41:40
 	android:exported
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:41:13-37
 	android:name
 		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:40:13-47
-meta-data#preloaded_fonts
-ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:43:9-45:57
-	android:resource
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:45:13-54
+activity#com.jobando.jobandotrucking.Admin_Assign_Job
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:42:9-44:40
+	android:exported
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:44:13-37
 	android:name
-		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:44:13-43
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:43:13-45
+activity#com.jobando.jobandotrucking.Admin_Driver_Registration
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:46:13-54
+activity#com.jobando.jobandotrucking.Admin_Navigation_Drawer_Base
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:48:9-50:40
+	android:exported
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:49:13-57
+activity#com.jobando.jobandotrucking.Admin_Dashboard
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:51:9-53:40
+	android:exported
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:52:13-44
+activity#com.jobando.jobandotrucking.Employee_Dashboard
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:54:9-56:40
+	android:exported
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:56:13-37
+	android:name
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:55:13-47
+meta-data#preloaded_fonts
+ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:58:9-60:57
+	android:resource
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:60:13-54
+	android:name
+		ADDED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:59:13-43
 uses-sdk
 INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml

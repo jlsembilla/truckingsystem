@@ -2825,6 +2825,11 @@ int id edit_query 0x7f0a00bc
 int id edittext_dropdown_editable 0x7f0a00bd
 int id edittext_dropdown_noneditable 0x7f0a00be
 int id elastic 0x7f0a00bf
+int id employee_dashboard 0x7f0a020c
+int id employee_delivery_info 0x7f0a020d
+int id employee_maps 0x7f0a020e
+int id employee_past_records 0x7f0a020f
+int id employee_working_hours 0x7f0a0210
 int id end 0x7f0a00c0
 int id endToStart 0x7f0a00c1
 int id enterAlways 0x7f0a00c2
@@ -3256,6 +3261,11 @@ int layout activity_admin_navigation_drawer_base 0x7f0d001f
 int layout activity_admin_view_drivers 0x7f0d0020
 int layout activity_admin_view_jobs 0x7f0d0021
 int layout activity_employee_dashboard 0x7f0d0022
+int layout activity_employee_delivery_info 0x7f0d0080
+int layout activity_employee_maps_directions 0x7f0d0081
+int layout activity_employee_navigation_drawer_base 0x7f0d0082
+int layout activity_employee_past_records 0x7f0d0083
+int layout activity_employee_working_hours 0x7f0d0084
 int layout activity_main 0x7f0d007f
 int layout admin_content_layout 0x7f0d0023
 int layout custom_dialog 0x7f0d0024
@@ -3274,6 +3284,7 @@ int layout design_navigation_menu 0x7f0d0030
 int layout design_navigation_menu_item 0x7f0d0031
 int layout design_text_input_end_icon 0x7f0d0032
 int layout design_text_input_start_icon 0x7f0d0033
+int layout employee_content_layout 0x7f0d0085
 int layout m3_alert_dialog 0x7f0d0034
 int layout m3_alert_dialog_actions 0x7f0d0035
 int layout m3_alert_dialog_title 0x7f0d0036
@@ -3350,6 +3361,7 @@ int layout text_view_with_line_height_from_style 0x7f0d007c
 int layout text_view_with_theme_line_height 0x7f0d007d
 int layout text_view_without_line_height 0x7f0d007e
 int menu admin_main_drawer_menu 0x7f0e0000
+int menu employee_main_drawer_menu 0x7f0e0003
 int menu example_menu 0x7f0e0001
 int menu example_menu2 0x7f0e0002
 int mipmap ic_launcher 0x7f0f0000

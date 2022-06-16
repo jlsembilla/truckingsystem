@@ -25,6 +25,21 @@
         android:testOnly="true"
         android:theme="@style/Theme.JObandoTrucking" >
         <activity
+            android:name="com.jobando.jobandotrucking.Employee_Past_Records"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Employee_Delivery_Info"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Employee_Working_Hours"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Employee_Maps_Directions"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Employee_Navigation_Drawer_Base"
+            android:exported="false" />
+        <activity
             android:name="com.jobando.jobandotrucking.MainActivity"
             android:exported="true" >
             <intent-filter>
