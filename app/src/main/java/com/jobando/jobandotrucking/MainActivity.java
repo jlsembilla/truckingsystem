@@ -32,7 +32,7 @@ import java.util.Map;
 public class MainActivity extends AppCompatActivity {
     firebaseConfig configureDB = new firebaseConfig();
     FirebaseFirestore db;
-    String userID, username, passcode, employeeType;
+    String  username, passcode, employeeType;
 
     DocumentReference documentReference;
 
@@ -69,16 +69,16 @@ public class MainActivity extends AppCompatActivity {
                         if(task.isSuccessful()){
                             for (QueryDocumentSnapshot document : task.getResult()){
                                 String passW = document.getString("password");
-                                String userType = document.getString("EmployeeType");
+                                employeeType = document.getString("EmployeeType");
                                 if(pass.equals(passW)){
-                                    if(userType.equals("Employer")){
+                                    if(employeeType.equals("Employer")){
 
                                         Intent intent = new Intent(MainActivity.this, Admin_Dashboard.class);
                                         startActivity(intent);
 
                                         Toast.makeText(MainActivity.this, "Admin Login Success", Toast.LENGTH_SHORT).show();
                                     }
-                                    else if(userType.equals("Employee")){
+                                    else if(employeeType.equals("Employee")){
 
                                         Intent intent = new Intent(MainActivity.this, Employee_Dashboard.class);
                                         startActivity(intent);

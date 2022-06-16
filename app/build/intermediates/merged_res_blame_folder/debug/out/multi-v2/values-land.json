@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\e172b6bbc781f1df47ba63a5995fea8d\\transformed\\material-1.6.1\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\877d7c53c79e3b8c5e4bae43f6741415\\transformed\\material-1.6.1\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,26,32,37",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\b42331b9fb86a260e0bce3c370069c78\\transformed\\appcompat-1.4.2\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\4729d8de1a4ea7ad9d15b7332b37ad6c\\transformed\\appcompat-1.4.2\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

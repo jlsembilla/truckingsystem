@@ -4,11 +4,17 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Employee_Dashboard extends AppCompatActivity {
+import com.jobando.jobandotrucking.databinding.ActivityEmployeeDashboardBinding;
+
+public class Employee_Dashboard extends Employee_Navigation_Drawer_Base {
+
+    ActivityEmployeeDashboardBinding activityEmployeeDashboardBinding;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_employee_dashboard);
+        activityEmployeeDashboardBinding = ActivityEmployeeDashboardBinding.inflate(getLayoutInflater());
+        setContentView(activityEmployeeDashboardBinding.getRoot());
+        allocateActivityTitle("Dashboard");
     }
 }

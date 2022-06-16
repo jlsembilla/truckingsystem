@@ -52,12 +52,12 @@
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\drawable\\notif.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\menu_admin_main_drawer_menu.xml.flat",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\menu\\admin_main_drawer_menu.xml"
-    },
-    {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_employee_working_hours.xml.flat",
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_working_hours.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\menu_admin_main_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\menu\\admin_main_drawer_menu.xml"
     },
     {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_employee_dashboard.xml.flat",
@@ -140,12 +140,12 @@
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\drawable-v24\\login_bg.jpg"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\drawable_addperson.xml.flat",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\drawable\\addperson.xml"
-    },
-    {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_employee_maps_directions.xml.flat",
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_maps_directions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\drawable_addperson.xml.flat",
+        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\drawable\\addperson.xml"
     },
     {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_admin_navigation_drawer_base.xml.flat",

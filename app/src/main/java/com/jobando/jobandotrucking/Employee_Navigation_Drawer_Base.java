@@ -22,7 +22,7 @@ public class Employee_Navigation_Drawer_Base extends AppCompatActivity implement
     @Override
     public void setContentView(View view) {
 
-        drawerLayout = (DrawerLayout) getLayoutInflater().inflate(R.layout.activity_admin_navigation_drawer_base, null);
+        drawerLayout = (DrawerLayout) getLayoutInflater().inflate(R.layout.activity_employee_navigation_drawer_base, null);
         FrameLayout container = drawerLayout.findViewById(R.id.activityContainer);
         container.addView(view);
 
