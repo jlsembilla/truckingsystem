@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953933108406",
+    "project_id": "jobandotrucking",
+    "storage_bucket": "jobandotrucking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953933108406:android:23bd5ce40295f9edd84217",
+        "android_client_info": {
+          "package_name": "com.jobando.jobandotrucking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953933108406-13qdvllc3pekb6jc1h2qb36a39q352t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJYlpvfQRPrt1zx0StTElyCNu4vu0RPo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953933108406-13qdvllc3pekb6jc1h2qb36a39q352t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

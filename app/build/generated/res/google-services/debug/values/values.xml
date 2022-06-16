@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">953933108406-13qdvllc3pekb6jc1h2qb36a39q352t9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">953933108406</string>
+    <string name="google_api_key" translatable="false">AIzaSyCJYlpvfQRPrt1zx0StTElyCNu4vu0RPo0</string>
+    <string name="google_app_id" translatable="false">1:953933108406:android:23bd5ce40295f9edd84217</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCJYlpvfQRPrt1zx0StTElyCNu4vu0RPo0</string>
+    <string name="google_storage_bucket" translatable="false">jobandotrucking.appspot.com</string>
+    <string name="project_id" translatable="false">jobandotrucking</string>
+</resources>
