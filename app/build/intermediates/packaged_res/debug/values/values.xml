@@ -24,6 +24,13 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
+    <item name="button2" type="id"/>
+    <item name="buttonLogin" type="id"/>
+    <item name="imageView" type="id"/>
+    <item name="passwordtxt" type="id"/>
+    <item name="textView2" type="id"/>
+    <item name="textView3" type="id"/>
+    <item name="usernametxt" type="id"/>
     <string name="app_name">JObandoTrucking</string>
     <string name="default_web_client_id" translatable="false">953933108406-13qdvllc3pekb6jc1h2qb36a39q352t9.apps.googleusercontent.com</string>
     <string name="gcm_defaultSenderId" translatable="false">953933108406</string>
@@ -31,18 +38,20 @@
     <string name="google_app_id" translatable="false">1:953933108406:android:23bd5ce40295f9edd84217</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCJYlpvfQRPrt1zx0StTElyCNu4vu0RPo0</string>
     <string name="google_storage_bucket" translatable="false">jobandotrucking.appspot.com</string>
+    <string name="menu_drawer_close">Drawer Close</string>
+    <string name="menu_drawer_open">Drawer Open</string>
     <string name="project_id" translatable="false">jobandotrucking</string>
     <style name="Theme.JObandoTrucking" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <!-- Primary brand color. -->
+        
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>
-        <!-- Secondary brand color. -->
+        
         <item name="colorSecondary">@color/teal_200</item>
         <item name="colorSecondaryVariant">@color/teal_700</item>
         <item name="colorOnSecondary">@color/black</item>
-        <!-- Status bar color. -->
+        
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
-        <!-- Customize your theme here. -->
+        
     </style>
 </resources>

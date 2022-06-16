@@ -73,14 +73,14 @@ public class MainActivity extends AppCompatActivity {
                                 if(pass.equals(passW)){
                                     if(userType.equals("Employer")){
 
-                                        Intent intent = new Intent(MainActivity.this, adminDashboard.class);
+                                        Intent intent = new Intent(MainActivity.this, Admin_Dashboard.class);
                                         startActivity(intent);
 
                                         Toast.makeText(MainActivity.this, "Admin Login Success", Toast.LENGTH_SHORT).show();
                                     }
                                     else if(userType.equals("Employee")){
 
-                                        Intent intent = new Intent(MainActivity.this, EDashboardActivity.class);
+                                        Intent intent = new Intent(MainActivity.this, Employee_Dashboard.class);
                                         startActivity(intent);
                                         Toast.makeText(MainActivity.this, "Employee Login Success", Toast.LENGTH_SHORT).show();
                                     }

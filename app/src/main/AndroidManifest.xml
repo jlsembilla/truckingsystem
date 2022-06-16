@@ -10,39 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JObandoTrucking">
         <activity
-            android:name=".viewJobs"
-            android:exported="false" />
-        <activity
-            android:name=".viewDrivers"
-            android:exported="false" />
-        <activity
-            android:name=".jobAssign"
-            android:exported="false" />
-        <activity
-            android:name=".driverRegistration"
-            android:exported="false" />
-        <activity
-            android:name=".adminDashboard"
-            android:exported="false" />
-        <activity
-            android:name=".pastRecords"
-            android:exported="false" />
-        <activity
-            android:name=".deliveryInfo"
-            android:exported="false" />
-        <activity
-            android:name=".workingHours"
-            android:exported="false" />
-        <activity
-            android:name=".maps"
-            android:exported="false" />
-        <activity
-            android:name=".EDashboardActivity"
-            android:exported="false" />
-        <activity
-            android:name=".EActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
@@ -51,6 +18,27 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Admin_View_Jobs"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_View_Drivers"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Assign_Job"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Driver_Registration"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Navigation_Drawer_Base"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Employee_Dashboard"
+            android:exported="false" />
 
         <meta-data
             android:name="preloaded_fonts"

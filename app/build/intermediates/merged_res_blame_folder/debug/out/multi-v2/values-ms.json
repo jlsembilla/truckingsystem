@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jasel\\Desktop\\JObandoTrucking-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+            "outputFile": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\7af146acc005b5d9ef6967bd0747cb28\\transformed\\core-1.7.0\\res\\values-ms\\values-ms.xml",

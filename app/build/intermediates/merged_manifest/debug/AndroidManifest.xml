@@ -25,39 +25,6 @@
         android:testOnly="true"
         android:theme="@style/Theme.JObandoTrucking" >
         <activity
-            android:name="com.jobando.jobandotrucking.viewJobs"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.viewDrivers"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.jobAssign"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.driverRegistration"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.adminDashboard"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.pastRecords"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.deliveryInfo"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.workingHours"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.maps"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.EDashboardActivity"
-            android:exported="false" />
-        <activity
-            android:name="com.jobando.jobandotrucking.EActivity"
-            android:exported="false" />
-        <activity
             android:name="com.jobando.jobandotrucking.MainActivity"
             android:exported="true" >
             <intent-filter>
@@ -66,6 +33,27 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.jobando.jobandotrucking.Admin_View_Jobs"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Admin_View_Drivers"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Admin_Assign_Job"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Admin_Driver_Registration"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Admin_Navigation_Drawer_Base"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Admin_Dashboard"
+            android:exported="false" />
+        <activity
+            android:name="com.jobando.jobandotrucking.Employee_Dashboard"
+            android:exported="false" />
 
         <meta-data
             android:name="preloaded_fonts"

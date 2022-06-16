@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jasel\\Desktop\\JObandoTrucking-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\e172b6bbc781f1df47ba63a5995fea8d\\transformed\\material-1.6.1\\res\\values-night-v8\\values-night-v8.xml",
@@ -15,20 +15,20 @@
                     "to": {
                         "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1459,1534,1645,1734,1835,1942,2049,2148,2251,2339,2463,2565,2667,2783,2885,2999,3127,3243,3365,3501,3621,3755,3875,3987,4202,4319,4443,4573,4695,4833,4967,5083",
+                        "startOffsets": "1457,1532,1643,1732,1833,1940,2047,2146,2249,2337,2461,2563,2665,2781,2883,2997,3125,3241,3363,3499,3619,3753,3873,3985,4200,4317,4441,4571,4693,4831,4965,5081",
                         "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
-                        "endOffsets": "1529,1640,1729,1830,1937,2044,2143,2246,2334,2458,2560,2662,2778,2880,2994,3122,3238,3360,3496,3616,3750,3870,3982,4108,4314,4438,4568,4690,4828,4962,5078,5198"
+                        "endOffsets": "1527,1638,1727,1828,1935,2042,2141,2244,2332,2456,2558,2660,2776,2878,2992,3120,3236,3358,3494,3614,3748,3868,3980,4106,4312,4436,4566,4688,4826,4960,5076,5196"
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jasel\\Desktop\\JObandoTrucking-master\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "100",
+                        "startOffsets": "102",
                         "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "824"
+                        "endOffsets": "836"
                     },
                     "to": {
                         "startLines": "9",
@@ -36,7 +36,7 @@
                         "startOffsets": "732",
                         "endLines": "21",
                         "endColumns": "12",
-                        "endOffsets": "1454"
+                        "endOffsets": "1452"
                     }
                 },
                 {
@@ -51,9 +51,9 @@
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,46",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,170,254,338,434,536,638,4113",
+                        "startOffsets": "100,170,254,338,434,536,638,4111",
                         "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "165,249,333,429,531,633,727,4197"
+                        "endOffsets": "165,249,333,429,531,633,727,4195"
                     }
                 }
             ]
