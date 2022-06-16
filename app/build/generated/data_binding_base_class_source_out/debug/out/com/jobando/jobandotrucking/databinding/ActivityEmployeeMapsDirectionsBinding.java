@@ -8,16 +8,24 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.jobando.jobandotrucking.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityEmployeeMapsDirectionsBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
 
-  private ActivityEmployeeMapsDirectionsBinding(@NonNull ConstraintLayout rootView) {
+  @NonNull
+  public final FloatingActionButton fab;
+
+  private ActivityEmployeeMapsDirectionsBinding(@NonNull ConstraintLayout rootView,
+      @NonNull FloatingActionButton fab) {
     this.rootView = rootView;
+    this.fab = fab;
   }
 
   @Override
@@ -43,10 +51,19 @@ public final class ActivityEmployeeMapsDirectionsBinding implements ViewBinding 
 
   @NonNull
   public static ActivityEmployeeMapsDirectionsBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.fab;
+      FloatingActionButton fab = ViewBindings.findChildViewById(rootView, id);
+      if (fab == null) {
+        break missingId;
+      }
 
-    return new ActivityEmployeeMapsDirectionsBinding((ConstraintLayout) rootView);
+      return new ActivityEmployeeMapsDirectionsBinding((ConstraintLayout) rootView, fab);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }
