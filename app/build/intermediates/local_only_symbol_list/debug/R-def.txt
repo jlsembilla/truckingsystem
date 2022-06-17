@@ -5,6 +5,7 @@ array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
 array date
 array description
+array driver_name
 array preloaded_fonts
 array sample_place
 color black
@@ -84,6 +85,7 @@ id place_text
 id plateNumberText
 id plate_number
 id recyclerView
+id recyclerViewAdmin
 id registerBtn
 id selectDriver
 id t1

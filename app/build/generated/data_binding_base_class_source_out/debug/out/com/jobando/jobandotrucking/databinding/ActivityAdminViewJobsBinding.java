@@ -7,17 +7,25 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.jobando.jobandotrucking.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityAdminViewJobsBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
 
-  private ActivityAdminViewJobsBinding(@NonNull ConstraintLayout rootView) {
+  @NonNull
+  public final RecyclerView recyclerViewAdmin;
+
+  private ActivityAdminViewJobsBinding(@NonNull ConstraintLayout rootView,
+      @NonNull RecyclerView recyclerViewAdmin) {
     this.rootView = rootView;
+    this.recyclerViewAdmin = recyclerViewAdmin;
   }
 
   @Override
@@ -43,10 +51,19 @@ public final class ActivityAdminViewJobsBinding implements ViewBinding {
 
   @NonNull
   public static ActivityAdminViewJobsBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.recyclerViewAdmin;
+      RecyclerView recyclerViewAdmin = ViewBindings.findChildViewById(rootView, id);
+      if (recyclerViewAdmin == null) {
+        break missingId;
+      }
 
-    return new ActivityAdminViewJobsBinding((ConstraintLayout) rootView);
+      return new ActivityAdminViewJobsBinding((ConstraintLayout) rootView, recyclerViewAdmin);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

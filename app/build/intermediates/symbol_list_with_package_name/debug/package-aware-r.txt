@@ -76,6 +76,7 @@ array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
 array date
 array description
+array driver_name
 array preloaded_fonts
 array sample_place
 attr SharedValue
@@ -3072,6 +3073,7 @@ id radio
 id ratio
 id rectangles
 id recyclerView
+id recyclerViewAdmin
 id registerBtn
 id reverseSawtooth
 id right

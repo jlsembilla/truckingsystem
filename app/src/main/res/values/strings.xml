@@ -27,4 +27,13 @@
         <item>July 4, 2019</item>
         <item>January 6, 2019</item>
     </string-array>
+
+    <string-array name="driver_name">
+        <item>Ariel Dela Cruz</item>
+        <item>Godwin Delos Santos</item>
+        <item>Erickson Banaag</item>
+        <item>Juan Dela Cruz</item>
+        <item>Cardo Dalisay</item>
+
+    </string-array>
 </resources>

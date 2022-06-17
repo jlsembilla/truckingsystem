@@ -75,6 +75,7 @@ int array com_google_android_gms_fonts_certs_dev 0x7f030001
 int array com_google_android_gms_fonts_certs_prod 0x7f030002
 int array date 0x7f030004
 int array description 0x7f030005
+int array driver_name 0x7f030007
 int array preloaded_fonts 0x7f030003
 int array sample_place 0x7f030006
 int attr SharedValue 0x7f040000
@@ -3071,6 +3072,7 @@ int id radio 0x7f0a018e
 int id ratio 0x7f0a018f
 int id rectangles 0x7f0a0190
 int id recyclerView 0x7f0a023e
+int id recyclerViewAdmin 0x7f0a0243
 int id registerBtn 0x7f0a0191
 int id reverseSawtooth 0x7f0a0192
 int id right 0x7f0a0193
