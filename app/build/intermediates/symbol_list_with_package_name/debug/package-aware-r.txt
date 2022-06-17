@@ -2600,6 +2600,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable lock
 drawable login_bg
 drawable logo
 drawable logout
@@ -2649,6 +2650,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable person
 drawable profile
+drawable profilep
 drawable records
 drawable rounded_edit_text
 drawable test_custom_background
@@ -2740,6 +2742,7 @@ id admin_dashboard
 id admin_driver_register
 id admin_view_drivers
 id admin_view_jobs
+id age
 id ageText
 id alertTitle
 id aligned
@@ -2786,6 +2789,7 @@ id center_vertical
 id chain
 id chain2
 id chains
+id changePass
 id checkbox
 id checked
 id chip
@@ -2845,6 +2849,7 @@ id dragLeft
 id dragRight
 id dragStart
 id dragUp
+id driving_experience
 id dropdown_editable
 id dropdown_menu
 id dropdown_noneditable
@@ -2856,11 +2861,13 @@ id edit_query
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
 id elastic
+id email
 id emailText
 id employee_dashboard
 id employee_delivery_info
 id employee_maps
 id employee_past_records
+id employee_profile
 id employee_working_hours
 id end
 id endToStart
@@ -2887,6 +2894,7 @@ id floating
 id forever
 id fragment_container_view_tag
 id frost
+id full_name
 id fullscreen_header
 id ghost_view
 id ghost_view_holder
@@ -2924,6 +2932,8 @@ id item2
 id item3
 id item4
 id item_touch_helper_previous_elevation
+id job_Location
+id job_details
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -2937,6 +2947,7 @@ id light
 id line1
 id line3
 id linear
+id linear_layout
 id listMode
 id list_item
 id locale
@@ -3039,7 +3050,9 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id place
 id plateNumberText
+id plate_number
 id position
 id postLayout
 id progress_circular
@@ -3175,6 +3188,7 @@ id toggle
 id toolBar
 id top
 id topPanel
+id top_full_name
 id top_to_bottom
 id touch_outside
 id transitionToEnd
@@ -3186,6 +3200,7 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id truckModelText
+id truck_model
 id unchecked
 id uniform
 id unlabeled
@@ -3193,6 +3208,8 @@ id up
 id useLogo
 id usernametxt
 id vertical_only
+id view1
+id view2
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3316,6 +3333,7 @@ layout activity_employee_delivery_info
 layout activity_employee_maps_directions
 layout activity_employee_navigation_drawer_base
 layout activity_employee_past_records
+layout activity_employee_profile_viewer
 layout activity_employee_working_hours
 layout activity_main
 layout admin_content_layout

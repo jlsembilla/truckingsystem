@@ -37,6 +37,8 @@ public class Employee_Navigation_Drawer_Base extends AppCompatActivity implement
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawerLayout, toolbar, R.string.menu_drawer_open, R.string.menu_drawer_close);
         drawerLayout.addDrawerListener(toggle);
         toggle.syncState();
+
+
     }
 
     @Override
@@ -68,8 +70,18 @@ public class Employee_Navigation_Drawer_Base extends AppCompatActivity implement
                 startActivity(new Intent(this, Employee_Past_Records.class));
                 overridePendingTransition(0,0);
                 break;
+
+            case R.id.employee_profile:
+                startActivity(new Intent(this, Employee_Profile_Viewer.class));
+                overridePendingTransition(0,0);
+                break;
         }
         return false;
+    }
+
+    public void profileViewer(){
+        Intent intent = new Intent(this, Employee_Profile_Viewer.class);
+        startActivity(intent);
     }
 
     protected void allocateActivityTitle(String titleString){

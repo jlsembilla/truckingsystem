@@ -37,6 +37,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.JObandoTrucking" >
         <activity
+            android:name="com.jobando.jobandotrucking.Employee_Profile_Viewer"
+            android:exported="false" />
+        <activity
             android:name="com.jobando.jobandotrucking.Employee_Past_Records"
             android:exported="false" />
         <activity

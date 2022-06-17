@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     FirebaseFirestore db;
     String  username, passcode, employeeType;
 
-    DocumentReference documentReference;
+    EmployeeID epv = new EmployeeID();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -72,7 +72,6 @@ public class MainActivity extends AppCompatActivity {
                                 employeeType = document.getString("EmployeeType");
                                 if(pass.equals(passW)){
                                     if(employeeType.equals("Employer")){
-
                                         Intent intent = new Intent(MainActivity.this, Admin_Dashboard.class);
                                         startActivity(intent);
 
@@ -80,6 +79,11 @@ public class MainActivity extends AppCompatActivity {
                                     }
                                     else if(employeeType.equals("Employee")){
 
+                                        String eid = document.getString("EmployeeID");
+
+                                        Log.d("daw", eid);
+
+                                        epv.setEmployeeID(eid);
                                         Intent intent = new Intent(MainActivity.this, Employee_Dashboard.class);
                                         startActivity(intent);
                                         Toast.makeText(MainActivity.this, "Employee Login Success", Toast.LENGTH_SHORT).show();

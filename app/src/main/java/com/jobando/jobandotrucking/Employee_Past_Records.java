@@ -2,6 +2,7 @@ package com.jobando.jobandotrucking;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import com.jobando.jobandotrucking.databinding.ActivityEmployeePastRecordsBinding;
@@ -17,5 +18,7 @@ public class Employee_Past_Records extends Employee_Navigation_Drawer_Base{
         activityEmployeePastRecordsBinding = ActivityEmployeePastRecordsBinding.inflate(getLayoutInflater());
         setContentView(activityEmployeePastRecordsBinding.getRoot());
         allocateActivityTitle("Past Records");
+
+
     }
 }

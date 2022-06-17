@@ -53,6 +53,7 @@ public class Employee_Maps_Directions extends Employee_Navigation_Drawer_Base im
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+
         activityEmployeeMapsDirectionsBinding = ActivityEmployeeMapsDirectionsBinding.inflate(getLayoutInflater());
         setContentView(activityEmployeeMapsDirectionsBinding.getRoot());
         allocateActivityTitle("Maps & Directions");

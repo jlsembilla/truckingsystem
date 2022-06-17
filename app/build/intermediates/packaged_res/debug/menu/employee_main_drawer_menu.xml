@@ -8,6 +8,11 @@
             android:title="Dashboard"/>
 
         <item
+            android:id="@+id/employee_profile"
+            android:icon="@drawable/person"
+            android:title="Profile"/>
+
+        <item
             android:id="@+id/employee_maps"
             android:icon="@drawable/map"
             android:title="Maps &amp; Directions"/>
@@ -27,6 +32,10 @@
             android:icon="@drawable/records"
             android:title="Past Records"/>
 
+
+
     </group>
+
+
 
 </menu>

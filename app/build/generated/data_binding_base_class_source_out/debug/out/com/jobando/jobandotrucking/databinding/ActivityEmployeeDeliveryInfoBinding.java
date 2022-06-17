@@ -4,25 +4,55 @@ package com.jobando.jobandotrucking.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.jobando.jobandotrucking.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityEmployeeDeliveryInfoBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final LinearLayout rootView;
 
-  private ActivityEmployeeDeliveryInfoBinding(@NonNull ConstraintLayout rootView) {
+  @NonNull
+  public final TextView jobDetails;
+
+  @NonNull
+  public final TextView jobLocation;
+
+  @NonNull
+  public final LinearLayout linearLayout;
+
+  @NonNull
+  public final TextView place;
+
+  @NonNull
+  public final View view1;
+
+  @NonNull
+  public final View view2;
+
+  private ActivityEmployeeDeliveryInfoBinding(@NonNull LinearLayout rootView,
+      @NonNull TextView jobDetails, @NonNull TextView jobLocation,
+      @NonNull LinearLayout linearLayout, @NonNull TextView place, @NonNull View view1,
+      @NonNull View view2) {
     this.rootView = rootView;
+    this.jobDetails = jobDetails;
+    this.jobLocation = jobLocation;
+    this.linearLayout = linearLayout;
+    this.place = place;
+    this.view1 = view1;
+    this.view2 = view2;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -43,10 +73,50 @@ public final class ActivityEmployeeDeliveryInfoBinding implements ViewBinding {
 
   @NonNull
   public static ActivityEmployeeDeliveryInfoBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.job_details;
+      TextView jobDetails = ViewBindings.findChildViewById(rootView, id);
+      if (jobDetails == null) {
+        break missingId;
+      }
 
-    return new ActivityEmployeeDeliveryInfoBinding((ConstraintLayout) rootView);
+      id = R.id.job_Location;
+      TextView jobLocation = ViewBindings.findChildViewById(rootView, id);
+      if (jobLocation == null) {
+        break missingId;
+      }
+
+      id = R.id.linear_layout;
+      LinearLayout linearLayout = ViewBindings.findChildViewById(rootView, id);
+      if (linearLayout == null) {
+        break missingId;
+      }
+
+      id = R.id.place;
+      TextView place = ViewBindings.findChildViewById(rootView, id);
+      if (place == null) {
+        break missingId;
+      }
+
+      id = R.id.view1;
+      View view1 = ViewBindings.findChildViewById(rootView, id);
+      if (view1 == null) {
+        break missingId;
+      }
+
+      id = R.id.view2;
+      View view2 = ViewBindings.findChildViewById(rootView, id);
+      if (view2 == null) {
+        break missingId;
+      }
+
+      return new ActivityEmployeeDeliveryInfoBinding((LinearLayout) rootView, jobDetails,
+          jobLocation, linearLayout, place, view1, view2);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

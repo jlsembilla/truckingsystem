@@ -8,6 +8,10 @@
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_delivery_info.xml"
     },
     {
+        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_employee_profile_viewer.xml",
+        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_profile_viewer.xml"
+    },
+    {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_drawer_header.xml",
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\main_drawer_header.xml"
     },
