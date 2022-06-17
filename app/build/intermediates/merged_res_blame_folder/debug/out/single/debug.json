@@ -92,6 +92,10 @@
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_delivery_info.xml"
     },
     {
+        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\layout_view_drivers_row.xml.flat",
+        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\view_drivers_row.xml"
+    },
+    {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_employee_navigation_drawer_base.xml.flat",
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_navigation_drawer_base.xml"
     },
@@ -142,6 +146,10 @@
     {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_employee_profile_viewer.xml.flat",
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_profile_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\drawable_warning.xml.flat",
+        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\drawable\\warning.xml"
     },
     {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\drawable_person.xml.flat",

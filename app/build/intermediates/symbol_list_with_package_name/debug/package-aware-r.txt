@@ -2666,6 +2666,7 @@ drawable tooltip_frame_light
 drawable vehicle
 drawable viewdrivers
 drawable viewjobs
+drawable warning
 drawable work
 font baloo_bhai
 id ALT
@@ -2745,6 +2746,7 @@ id adjust_width
 id admin_add_task
 id admin_dashboard
 id admin_driver_register
+id admin_logout
 id admin_view_drivers
 id admin_view_jobs
 id age
@@ -2873,10 +2875,12 @@ id email
 id emailText
 id employee_dashboard
 id employee_delivery_info
+id employee_logout
 id employee_maps
 id employee_past_records
 id employee_profile
 id employee_working_hours
+id employees
 id end
 id endToStart
 id enterAlways
@@ -3074,7 +3078,9 @@ id ratio
 id rectangles
 id recyclerView
 id recyclerViewAdmin
+id recyclerViewDrivers
 id registerBtn
+id registeredTrucks
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3185,10 +3191,13 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
 id textView2
 id textView3
 id textView4
+id textView6
+id textView7
+id textView8
+id textView9
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3451,6 +3460,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+layout view_drivers_row
 menu admin_main_drawer_menu
 menu employee_main_drawer_menu
 menu example_menu

@@ -7,6 +7,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
@@ -20,12 +21,29 @@ public final class ActivityAdminDashboardBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final CardView employees;
+
+  @NonNull
+  public final CardView registeredTrucks;
+
+  @NonNull
   public final TextView textView4;
 
+  @NonNull
+  public final TextView textView6;
+
+  @NonNull
+  public final TextView textView7;
+
   private ActivityAdminDashboardBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TextView textView4) {
+      @NonNull CardView employees, @NonNull CardView registeredTrucks, @NonNull TextView textView4,
+      @NonNull TextView textView6, @NonNull TextView textView7) {
     this.rootView = rootView;
+    this.employees = employees;
+    this.registeredTrucks = registeredTrucks;
     this.textView4 = textView4;
+    this.textView6 = textView6;
+    this.textView7 = textView7;
   }
 
   @Override
@@ -55,13 +73,38 @@ public final class ActivityAdminDashboardBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.employees;
+      CardView employees = ViewBindings.findChildViewById(rootView, id);
+      if (employees == null) {
+        break missingId;
+      }
+
+      id = R.id.registeredTrucks;
+      CardView registeredTrucks = ViewBindings.findChildViewById(rootView, id);
+      if (registeredTrucks == null) {
+        break missingId;
+      }
+
       id = R.id.textView4;
       TextView textView4 = ViewBindings.findChildViewById(rootView, id);
       if (textView4 == null) {
         break missingId;
       }
 
-      return new ActivityAdminDashboardBinding((ConstraintLayout) rootView, textView4);
+      id = R.id.textView6;
+      TextView textView6 = ViewBindings.findChildViewById(rootView, id);
+      if (textView6 == null) {
+        break missingId;
+      }
+
+      id = R.id.textView7;
+      TextView textView7 = ViewBindings.findChildViewById(rootView, id);
+      if (textView7 == null) {
+        break missingId;
+      }
+
+      return new ActivityAdminDashboardBinding((ConstraintLayout) rootView, employees,
+          registeredTrucks, textView4, textView6, textView7);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

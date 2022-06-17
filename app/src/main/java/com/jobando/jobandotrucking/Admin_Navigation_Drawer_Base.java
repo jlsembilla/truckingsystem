@@ -2,11 +2,13 @@ package com.jobando.jobandotrucking;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
@@ -67,6 +69,31 @@ public class Admin_Navigation_Drawer_Base extends AppCompatActivity implements N
             case R.id.admin_view_jobs:
                 startActivity(new Intent(this, Admin_View_Jobs.class));
                 overridePendingTransition(0,0);
+                break;
+            case R.id.admin_logout:
+
+                AlertDialog.Builder builder = new AlertDialog.Builder(this);
+                builder.setTitle("Logout");
+                builder.setMessage("Are you sure?");
+                builder.setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+
+                        finishAffinity();
+
+                        System.exit(0);
+                    }
+                });
+
+                builder.setNegativeButton("No", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+
+                        dialog.dismiss();
+                    }
+                });
+
+                builder.show();
                 break;
         }
         return false;

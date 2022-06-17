@@ -32,6 +32,12 @@
             android:icon="@drawable/records"
             android:title="Past Records"/>
 
+        <item
+            android:id="@+id/employee_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout"/>
+
+
 
 
     </group>
