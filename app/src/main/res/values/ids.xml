@@ -7,4 +7,10 @@
     <item name="buttonLogin" type="id" />
     <item name="button2" type="id" />
     <item name="imageView" type="id" />
+    <item name="text3" type="id" />
+    <item name="text4" type="id" />
+    <item name="text5" type="id" />
+    <item name="text6" type="id" />
+    <item name="text7" type="id" />
+    <item name="text8" type="id" />
 </resources>

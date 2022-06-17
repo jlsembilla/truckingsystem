@@ -55,207 +55,208 @@
 35-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:12:9-54
 36        android:supportsRtl="true"
 36-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:13:9-35
-37        android:theme="@style/Theme.JObandoTrucking" >
-37-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:14:9-53
-38        <activity
-38-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:16:9-18:40
-39            android:name="com.jobando.jobandotrucking.Employee_Past_Records"
-39-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:17:13-50
-40            android:exported="false" />
-40-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:18:13-37
-41        <activity
-41-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:19:9-21:40
-42            android:name="com.jobando.jobandotrucking.Employee_Delivery_Info"
-42-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:20:13-51
-43            android:exported="false" />
-43-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:21:13-37
-44        <activity
-44-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:22:9-24:40
-45            android:name="com.jobando.jobandotrucking.Employee_Working_Hours"
-45-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:23:13-51
-46            android:exported="false" />
-46-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:24:13-37
-47        <activity
-47-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:25:9-27:40
-48            android:name="com.jobando.jobandotrucking.Employee_Maps_Directions"
-48-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:26:13-53
-49            android:exported="false" />
-49-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:27:13-37
-50        <activity
-50-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:28:9-30:40
-51            android:name="com.jobando.jobandotrucking.Employee_Navigation_Drawer_Base"
-51-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:29:13-60
-52            android:exported="false" />
-52-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:30:13-37
-53        <activity
-53-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:31:9-39:20
-54            android:name="com.jobando.jobandotrucking.MainActivity"
-54-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:32:13-41
-55            android:exported="true" >
-55-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:33:13-36
-56            <intent-filter>
-56-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:34:13-38:29
-57                <action android:name="android.intent.action.MAIN" />
-57-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:35:17-69
-57-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:35:25-66
-58
-59                <category android:name="android.intent.category.LAUNCHER" />
-59-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:37:17-77
-59-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:37:27-74
-60            </intent-filter>
-61        </activity>
-62        <activity
-62-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:40:9-42:40
-63            android:name="com.jobando.jobandotrucking.Admin_View_Jobs"
-63-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:41:13-44
-64            android:exported="false" />
-64-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:42:13-37
-65        <activity
-65-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:43:9-45:40
-66            android:name="com.jobando.jobandotrucking.Admin_View_Drivers"
-66-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:44:13-47
-67            android:exported="false" />
-67-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:45:13-37
-68        <activity
-68-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:46:9-48:40
-69            android:name="com.jobando.jobandotrucking.Admin_Assign_Job"
-69-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:47:13-45
-70            android:exported="false" />
-70-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:48:13-37
-71        <activity
-71-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:49:9-51:40
-72            android:name="com.jobando.jobandotrucking.Admin_Driver_Registration"
-72-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:50:13-54
-73            android:exported="false" />
-73-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:51:13-37
-74        <activity
-74-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:52:9-54:40
-75            android:name="com.jobando.jobandotrucking.Admin_Navigation_Drawer_Base"
-75-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:53:13-57
-76            android:exported="false" />
-76-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:54:13-37
-77        <activity
-77-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:55:9-57:40
-78            android:name="com.jobando.jobandotrucking.Admin_Dashboard"
-78-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:56:13-44
-79            android:exported="false" />
-79-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:57:13-37
-80        <activity
-80-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:58:9-60:40
-81            android:name="com.jobando.jobandotrucking.Employee_Dashboard"
-81-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:59:13-47
-82            android:exported="false" />
-82-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:60:13-37
-83
-84        <meta-data
-84-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:62:9-64:57
-85            android:name="preloaded_fonts"
-85-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:63:13-43
-86            android:resource="@array/preloaded_fonts" />
-86-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:64:13-54
-87        <meta-data
-87-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:66:9-68:68
-88            android:name="com.google.android.gms.version"
-88-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:67:13-58
-89            android:value="@integer/google_play_services_version" />
-89-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:68:13-66
-90        <meta-data
-90-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:70:9-72:70
-91            android:name="com.google.android.geo.API_KEY"
-91-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:71:13-58
-92            android:value="AIzaSyAEvDtzFJ0jVW9hknyCYOXWK4sZdcINPkE" />
-92-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:72:13-68
-93
-94        <activity
-94-->[com.karumi:dexter:6.2.3] C:\Users\Jasel\.gradle\caches\transforms-3\67fc03abf9dcb56930b18796b9182778\transformed\dexter-6.2.3\AndroidManifest.xml:27:9-29:72
-95            android:name="com.karumi.dexter.DexterActivity"
-95-->[com.karumi:dexter:6.2.3] C:\Users\Jasel\.gradle\caches\transforms-3\67fc03abf9dcb56930b18796b9182778\transformed\dexter-6.2.3\AndroidManifest.xml:28:13-60
-96            android:theme="@style/Dexter.Internal.Theme.Transparent" />
-96-->[com.karumi:dexter:6.2.3] C:\Users\Jasel\.gradle\caches\transforms-3\67fc03abf9dcb56930b18796b9182778\transformed\dexter-6.2.3\AndroidManifest.xml:29:13-69
-97
-98        <service
-98-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:17:9-23:19
-99            android:name="com.google.firebase.components.ComponentDiscoveryService"
-99-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:18:13-84
-100            android:directBootAware="true"
-100-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:35:13-43
-101            android:exported="false" >
-101-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:19:13-37
-102            <meta-data
-102-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:20:13-22:85
-103                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-103-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:21:17-111
-104                android:value="com.google.firebase.components.ComponentRegistrar" />
-104-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:22:17-82
-105            <meta-data
-105-->[com.google.firebase:firebase-database:20.0.5] C:\Users\Jasel\.gradle\caches\transforms-3\e32418e43e0dded4307a0d8afeb87434\transformed\firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
-106                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-106-->[com.google.firebase:firebase-database:20.0.5] C:\Users\Jasel\.gradle\caches\transforms-3\e32418e43e0dded4307a0d8afeb87434\transformed\firebase-database-20.0.5\AndroidManifest.xml:33:17-109
-107                android:value="com.google.firebase.components.ComponentRegistrar" />
-107-->[com.google.firebase:firebase-database:20.0.5] C:\Users\Jasel\.gradle\caches\transforms-3\e32418e43e0dded4307a0d8afeb87434\transformed\firebase-database-20.0.5\AndroidManifest.xml:34:17-82
-108        </service> <!-- Needs to be explicitly declared on P+ -->
-109        <uses-library
-109-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\f5c0135852794044a7327b094732f5fc\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
-110            android:name="org.apache.http.legacy"
-110-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\f5c0135852794044a7327b094732f5fc\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
-111            android:required="false" />
-111-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\f5c0135852794044a7327b094732f5fc\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
-112
-113        <activity
-113-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\f4facc7b74ab31e678b567f6fe31680e\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
-114            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-114-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\f4facc7b74ab31e678b567f6fe31680e\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
-115            android:exported="false"
-115-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\f4facc7b74ab31e678b567f6fe31680e\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
-116            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-116-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\f4facc7b74ab31e678b567f6fe31680e\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
-117
-118        <provider
-118-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
-119            android:name="com.google.firebase.provider.FirebaseInitProvider"
-119-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:27:13-77
-120            android:authorities="com.jobando.jobandotrucking.firebaseinitprovider"
-120-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:28:13-72
-121            android:directBootAware="true"
-121-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:29:13-43
-122            android:exported="false"
-122-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:30:13-37
-123            android:initOrder="100" />
-123-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:31:13-36
-124        <provider
-124-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-125            android:name="androidx.startup.InitializationProvider"
-125-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-126            android:authorities="com.jobando.jobandotrucking.androidx-startup"
-126-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-127            android:exported="false" >
-127-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-128            <meta-data
-128-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-129                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-129-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-130                android:value="androidx.startup" />
-130-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-131            <meta-data
-131-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Jasel\.gradle\caches\transforms-3\6d08ed5237c523f8d327be6cfc428767\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-132                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-132-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Jasel\.gradle\caches\transforms-3\6d08ed5237c523f8d327be6cfc428767\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-133                android:value="androidx.startup" />
-133-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Jasel\.gradle\caches\transforms-3\6d08ed5237c523f8d327be6cfc428767\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-134        </provider>
-135
-136        <uses-library
-136-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-137            android:name="androidx.window.extensions"
-137-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-138            android:required="false" />
-138-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-139        <uses-library
-139-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-140            android:name="androidx.window.sidecar"
-140-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-141            android:required="false" />
-141-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-142    </application>
-143
-144</manifest>
+37        android:testOnly="true"
+38        android:theme="@style/Theme.JObandoTrucking" >
+38-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:14:9-53
+39        <activity
+39-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:16:9-18:40
+40            android:name="com.jobando.jobandotrucking.Employee_Past_Records"
+40-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:17:13-50
+41            android:exported="false" />
+41-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:18:13-37
+42        <activity
+42-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:19:9-21:40
+43            android:name="com.jobando.jobandotrucking.Employee_Delivery_Info"
+43-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:20:13-51
+44            android:exported="false" />
+44-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:21:13-37
+45        <activity
+45-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:22:9-24:40
+46            android:name="com.jobando.jobandotrucking.Employee_Working_Hours"
+46-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:23:13-51
+47            android:exported="false" />
+47-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:24:13-37
+48        <activity
+48-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:25:9-27:40
+49            android:name="com.jobando.jobandotrucking.Employee_Maps_Directions"
+49-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:26:13-53
+50            android:exported="false" />
+50-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:27:13-37
+51        <activity
+51-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:28:9-30:40
+52            android:name="com.jobando.jobandotrucking.Employee_Navigation_Drawer_Base"
+52-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:29:13-60
+53            android:exported="false" />
+53-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:30:13-37
+54        <activity
+54-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:31:9-39:20
+55            android:name="com.jobando.jobandotrucking.MainActivity"
+55-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:32:13-41
+56            android:exported="true" >
+56-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:33:13-36
+57            <intent-filter>
+57-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:34:13-38:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:35:17-69
+58-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:35:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:37:17-77
+60-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:37:27-74
+61            </intent-filter>
+62        </activity>
+63        <activity
+63-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:40:9-42:40
+64            android:name="com.jobando.jobandotrucking.Admin_View_Jobs"
+64-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:41:13-44
+65            android:exported="false" />
+65-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:42:13-37
+66        <activity
+66-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:43:9-45:40
+67            android:name="com.jobando.jobandotrucking.Admin_View_Drivers"
+67-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:44:13-47
+68            android:exported="false" />
+68-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:45:13-37
+69        <activity
+69-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:46:9-48:40
+70            android:name="com.jobando.jobandotrucking.Admin_Assign_Job"
+70-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:47:13-45
+71            android:exported="false" />
+71-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:48:13-37
+72        <activity
+72-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:49:9-51:40
+73            android:name="com.jobando.jobandotrucking.Admin_Driver_Registration"
+73-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:50:13-54
+74            android:exported="false" />
+74-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:51:13-37
+75        <activity
+75-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:52:9-54:40
+76            android:name="com.jobando.jobandotrucking.Admin_Navigation_Drawer_Base"
+76-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:53:13-57
+77            android:exported="false" />
+77-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:54:13-37
+78        <activity
+78-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:55:9-57:40
+79            android:name="com.jobando.jobandotrucking.Admin_Dashboard"
+79-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:56:13-44
+80            android:exported="false" />
+80-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:57:13-37
+81        <activity
+81-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:58:9-60:40
+82            android:name="com.jobando.jobandotrucking.Employee_Dashboard"
+82-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:59:13-47
+83            android:exported="false" />
+83-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:60:13-37
+84
+85        <meta-data
+85-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:62:9-64:57
+86            android:name="preloaded_fonts"
+86-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:63:13-43
+87            android:resource="@array/preloaded_fonts" />
+87-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:64:13-54
+88        <meta-data
+88-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:66:9-68:68
+89            android:name="com.google.android.gms.version"
+89-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:67:13-58
+90            android:value="@integer/google_play_services_version" />
+90-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:68:13-66
+91        <meta-data
+91-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:70:9-72:70
+92            android:name="com.google.android.geo.API_KEY"
+92-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:71:13-58
+93            android:value="AIzaSyAEvDtzFJ0jVW9hknyCYOXWK4sZdcINPkE" />
+93-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:72:13-68
+94
+95        <activity
+95-->[com.karumi:dexter:6.2.3] C:\Users\Jasel\.gradle\caches\transforms-3\67fc03abf9dcb56930b18796b9182778\transformed\dexter-6.2.3\AndroidManifest.xml:27:9-29:72
+96            android:name="com.karumi.dexter.DexterActivity"
+96-->[com.karumi:dexter:6.2.3] C:\Users\Jasel\.gradle\caches\transforms-3\67fc03abf9dcb56930b18796b9182778\transformed\dexter-6.2.3\AndroidManifest.xml:28:13-60
+97            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+97-->[com.karumi:dexter:6.2.3] C:\Users\Jasel\.gradle\caches\transforms-3\67fc03abf9dcb56930b18796b9182778\transformed\dexter-6.2.3\AndroidManifest.xml:29:13-69
+98
+99        <service
+99-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:17:9-23:19
+100            android:name="com.google.firebase.components.ComponentDiscoveryService"
+100-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:18:13-84
+101            android:directBootAware="true"
+101-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+102            android:exported="false" >
+102-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:19:13-37
+103            <meta-data
+103-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:20:13-22:85
+104                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+104-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:21:17-111
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\0cc983807064006c5db1292f9e564066\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:22:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-database:20.0.5] C:\Users\Jasel\.gradle\caches\transforms-3\e32418e43e0dded4307a0d8afeb87434\transformed\firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
+107                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+107-->[com.google.firebase:firebase-database:20.0.5] C:\Users\Jasel\.gradle\caches\transforms-3\e32418e43e0dded4307a0d8afeb87434\transformed\firebase-database-20.0.5\AndroidManifest.xml:33:17-109
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-database:20.0.5] C:\Users\Jasel\.gradle\caches\transforms-3\e32418e43e0dded4307a0d8afeb87434\transformed\firebase-database-20.0.5\AndroidManifest.xml:34:17-82
+109        </service> <!-- Needs to be explicitly declared on P+ -->
+110        <uses-library
+110-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\f5c0135852794044a7327b094732f5fc\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+111            android:name="org.apache.http.legacy"
+111-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\f5c0135852794044a7327b094732f5fc\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+112            android:required="false" />
+112-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\f5c0135852794044a7327b094732f5fc\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+113
+114        <activity
+114-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\f4facc7b74ab31e678b567f6fe31680e\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+115            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+115-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\f4facc7b74ab31e678b567f6fe31680e\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+116            android:exported="false"
+116-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\f4facc7b74ab31e678b567f6fe31680e\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+117            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+117-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\f4facc7b74ab31e678b567f6fe31680e\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+118
+119        <provider
+119-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+120            android:name="com.google.firebase.provider.FirebaseInitProvider"
+120-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+121            android:authorities="com.jobando.jobandotrucking.firebaseinitprovider"
+121-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+122            android:directBootAware="true"
+122-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+123            android:exported="false"
+123-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+124            android:initOrder="100" />
+124-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\83a14efdbf09bc8c4b69fb74e12d92f7\transformed\firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+125        <provider
+125-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+126            android:name="androidx.startup.InitializationProvider"
+126-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+127            android:authorities="com.jobando.jobandotrucking.androidx-startup"
+127-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+128            android:exported="false" >
+128-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+129            <meta-data
+129-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+130                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+130-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+131                android:value="androidx.startup" />
+131-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\e291193ba47a84d9cc5509f2b2d8a8d8\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+132            <meta-data
+132-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Jasel\.gradle\caches\transforms-3\6d08ed5237c523f8d327be6cfc428767\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+133                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+133-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Jasel\.gradle\caches\transforms-3\6d08ed5237c523f8d327be6cfc428767\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+134                android:value="androidx.startup" />
+134-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Jasel\.gradle\caches\transforms-3\6d08ed5237c523f8d327be6cfc428767\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+135        </provider>
+136
+137        <uses-library
+137-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+138            android:name="androidx.window.extensions"
+138-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+139            android:required="false" />
+139-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+140        <uses-library
+140-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+141            android:name="androidx.window.sidecar"
+141-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+142            android:required="false" />
+142-->[androidx.window:window:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\44774b7166ab2ad0ba5496076cffa6c0\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+143    </application>
+144
+145</manifest>

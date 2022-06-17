@@ -2584,6 +2584,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable email
 drawable file
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
@@ -2646,6 +2647,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable person
 drawable profile
 drawable records
 drawable rounded_edit_text
@@ -2654,8 +2656,10 @@ drawable test_level_drawable
 drawable time
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable vehicle
 drawable viewdrivers
 drawable viewjobs
+drawable work
 font baloo_bhai
 id ALT
 id BOTTOM_END
@@ -2736,6 +2740,7 @@ id admin_dashboard
 id admin_driver_register
 id admin_view_drivers
 id admin_view_jobs
+id ageText
 id alertTitle
 id aligned
 id all
@@ -2851,6 +2856,7 @@ id edit_query
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
 id elastic
+id emailText
 id employee_dashboard
 id employee_delivery_info
 id employee_maps
@@ -2869,6 +2875,7 @@ id fill
 id fill_horizontal
 id fill_vertical
 id filled
+id firstNameText
 id fitCenter
 id fitEnd
 id fitStart
@@ -2920,6 +2927,7 @@ id item_touch_helper_previous_elevation
 id jumpToEnd
 id jumpToStart
 id labeled
+id lastNameText
 id layout
 id left
 id leftToRight
@@ -2958,6 +2966,7 @@ id material_value_index
 id matrix
 id message
 id middle
+id middleNameText
 id mini
 id month_grid
 id month_navigation_bar
@@ -3030,6 +3039,7 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id plateNumberText
 id position
 id postLayout
 id progress_circular
@@ -3037,6 +3047,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id registerBtn
 id reverseSawtooth
 id right
 id rightToLeft
@@ -3130,7 +3141,14 @@ id test_checkbox_app_button_tint
 id test_radiobutton_android_button_tint
 id test_radiobutton_app_button_tint
 id text
+id text1
 id text2
+id text3
+id text4
+id text5
+id text6
+id text7
+id text8
 id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
@@ -3167,6 +3185,7 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id truckModelText
 id unchecked
 id uniform
 id unlabeled
@@ -3185,6 +3204,7 @@ id west
 id wide
 id withText
 id withinBounds
+id workExperienceText
 id wrap
 id wrap_content
 id wrap_content_constrained
