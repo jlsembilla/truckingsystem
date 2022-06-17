@@ -3,7 +3,10 @@ local
 array com_google_android_gms_fonts_certs
 array com_google_android_gms_fonts_certs_dev
 array com_google_android_gms_fonts_certs_prod
+array date
+array description
 array preloaded_fonts
+array sample_place
 color black
 color purple_200
 color purple_500
@@ -50,6 +53,8 @@ id assign
 id button2
 id buttonLogin
 id changePass
+id date
+id description
 id driving_experience
 id email
 id emailText
@@ -64,6 +69,7 @@ id firstNameText
 id full_name
 id google.map
 id imageView
+id images
 id job_Location
 id job_address_text
 id job_details
@@ -77,8 +83,11 @@ id place
 id place_text
 id plateNumberText
 id plate_number
+id recyclerView
 id registerBtn
 id selectDriver
+id t1
+id t2
 id text1
 id text3
 id text4
@@ -91,6 +100,8 @@ id textView
 id textView2
 id textView3
 id textView4
+id textview
+id title_text
 id toolBar
 id top_full_name
 id truckModelText
@@ -115,7 +126,9 @@ layout activity_employee_working_hours
 layout activity_main
 layout admin_content_layout
 layout employee_content_layout
+layout list_item
 layout main_drawer_header
+layout past_records_row
 menu admin_main_drawer_menu
 menu employee_main_drawer_menu
 mipmap ic_launcher

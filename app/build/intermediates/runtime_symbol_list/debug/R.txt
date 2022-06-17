@@ -73,7 +73,10 @@ int animator nav_default_pop_exit_anim 0x7f020023
 int array com_google_android_gms_fonts_certs 0x7f030000
 int array com_google_android_gms_fonts_certs_dev 0x7f030001
 int array com_google_android_gms_fonts_certs_prod 0x7f030002
+int array date 0x7f030004
+int array description 0x7f030005
 int array preloaded_fonts 0x7f030003
+int array sample_place 0x7f030006
 int attr SharedValue 0x7f040000
 int attr SharedValueId 0x7f040001
 int attr action 0x7f040002
@@ -2822,6 +2825,7 @@ int id custom 0x7f0a009b
 int id customPanel 0x7f0a009c
 int id cut 0x7f0a009d
 int id dark 0x7f0a009e
+int id date 0x7f0a023b
 int id date_picker_actions 0x7f0a009f
 int id decelerate 0x7f0a00a0
 int id decelerateAndComplete 0x7f0a00a1
@@ -2829,6 +2833,7 @@ int id decor_content_parent 0x7f0a00a2
 int id default_activity_button 0x7f0a00a3
 int id deltaRelative 0x7f0a00a4
 int id dependency_ordering 0x7f0a00a5
+int id description 0x7f0a023c
 int id design_bottom_sheet 0x7f0a00a6
 int id design_menu_item_action_area 0x7f0a00a7
 int id design_menu_item_action_area_stub 0x7f0a00a8
@@ -2922,6 +2927,7 @@ int id ignore 0x7f0a00ff
 int id ignoreRequest 0x7f0a0100
 int id image 0x7f0a0101
 int id imageView 0x7f0a0102
+int id images 0x7f0a023d
 int id immediateStop 0x7f0a0103
 int id included 0x7f0a0104
 int id info 0x7f0a0105
@@ -3064,6 +3070,7 @@ int id progress_horizontal 0x7f0a018d
 int id radio 0x7f0a018e
 int id ratio 0x7f0a018f
 int id rectangles 0x7f0a0190
+int id recyclerView 0x7f0a023e
 int id registerBtn 0x7f0a0191
 int id reverseSawtooth 0x7f0a0192
 int id right 0x7f0a0193
@@ -3139,6 +3146,8 @@ int id stretch 0x7f0a01d8
 int id submenuarrow 0x7f0a01d9
 int id submit_area 0x7f0a01da
 int id supportScrollUp 0x7f0a01db
+int id t1 0x7f0a023f
+int id t2 0x7f0a0240
 int id tabMode 0x7f0a01dc
 int id tag_accessibility_actions 0x7f0a01dd
 int id tag_accessibility_clickable_spans 0x7f0a01de
@@ -3186,10 +3195,12 @@ int id textinput_helper_text 0x7f0a0207
 int id textinput_placeholder 0x7f0a0208
 int id textinput_prefix_text 0x7f0a0209
 int id textinput_suffix_text 0x7f0a020a
+int id textview 0x7f0a0241
 int id time 0x7f0a020b
 int id title 0x7f0a020c
 int id titleDividerNoCustom 0x7f0a020d
 int id title_template 0x7f0a020e
+int id title_text 0x7f0a0242
 int id toggle 0x7f0a020f
 int id toolBar 0x7f0a0210
 int id top 0x7f0a0211
@@ -3360,6 +3371,7 @@ int layout design_navigation_menu_item 0x7f0d0038
 int layout design_text_input_end_icon 0x7f0d0039
 int layout design_text_input_start_icon 0x7f0d003a
 int layout employee_content_layout 0x7f0d003b
+int layout list_item 0x7f0d0087
 int layout m3_alert_dialog 0x7f0d003c
 int layout m3_alert_dialog_actions 0x7f0d003d
 int layout m3_alert_dialog_title 0x7f0d003e
@@ -3415,6 +3427,7 @@ int layout notification_template_custom_big 0x7f0d006f
 int layout notification_template_icon_group 0x7f0d0070
 int layout notification_template_part_chronometer 0x7f0d0071
 int layout notification_template_part_time 0x7f0d0072
+int layout past_records_row 0x7f0d0088
 int layout select_dialog_item_material 0x7f0d0073
 int layout select_dialog_multichoice_material 0x7f0d0074
 int layout select_dialog_singlechoice_material 0x7f0d0075
