@@ -139,6 +139,8 @@ public class Admin_Driver_Registration extends Admin_Navigation_Drawer_Base{
                 cm.setPrimaryClip(clip);
 
                 Toast.makeText(Admin_Driver_Registration.this, "Copied to Clipboard", Toast.LENGTH_SHORT).show();
+
+                createUserDetails(EmployeeID, uname, pass);
             }
         });
 
@@ -146,29 +148,38 @@ public class Admin_Driver_Registration extends Admin_Navigation_Drawer_Base{
             @Override
             public void onClick(DialogInterface dialog, int which) {
 
-                Map<String, Object> userData = new HashMap<>();
-                userData.put("EmployeeID", EmployeeID);
-                userData.put("username", uname);
-                userData.put("password", pass);
-                userData.put("EmployeeType", "Employee");
-
-                db.collection("Users").document(EmployeeID)
-                        .set(userData)
-                        .addOnSuccessListener(new OnSuccessListener<Void>() {
-                            @Override
-                            public void onSuccess(Void unused) {
-                                Toast.makeText(Admin_Driver_Registration.this, "User Added Successfully", Toast.LENGTH_SHORT).show();
-                            }
-                        })
-                        .addOnFailureListener(new OnFailureListener() {
-                            @Override
-                            public void onFailure(@NonNull Exception e) {
-                                Toast.makeText(Admin_Driver_Registration.this, "Adding User Failed!", Toast.LENGTH_SHORT).show();
-                            }
-                        });
-                dialog.dismiss();
+                createUserDetails(EmployeeID, uname, pass);
             }
         });
+
+        AlertDialog dialog = builder.create();
+        dialog.show();
+
+    }
+
+    private void createUserDetails(String EmployeeID, String uname, String pass){
+
+        Map<String, Object> userData = new HashMap<>();
+        userData.put("EmployeeID", EmployeeID);
+        userData.put("username", uname);
+        userData.put("password", pass);
+        userData.put("EmployeeType", "Employee");
+
+        db.collection("Users").document(EmployeeID)
+                .set(userData)
+                .addOnSuccessListener(new OnSuccessListener<Void>() {
+                    @Override
+                    public void onSuccess(Void unused) {
+                        Toast.makeText(Admin_Driver_Registration.this, "User Added Successfully", Toast.LENGTH_SHORT).show();
+                    }
+                })
+                .addOnFailureListener(new OnFailureListener() {
+                    @Override
+                    public void onFailure(@NonNull Exception e) {
+                        Toast.makeText(Admin_Driver_Registration.this, "Adding User Failed!", Toast.LENGTH_SHORT).show();
+                    }
+                });
+
     }
 
     private void clearFields() {

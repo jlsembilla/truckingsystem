@@ -56,12 +56,12 @@
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\drawable\\notif.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\drawable_email.xml.flat",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\drawable\\email.xml"
-    },
-    {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_employee_working_hours.xml.flat",
         "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_working_hours.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\drawable_email.xml.flat",
+        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\drawable\\email.xml"
     },
     {
         "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\merged_res\\debug\\menu_admin_main_drawer_menu.xml.flat",
