@@ -4,20 +4,66 @@ package com.jobando.jobandotrucking.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AutoCompleteTextView;
+import android.widget.Button;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
+import com.google.android.material.textfield.TextInputEditText;
+import com.google.android.material.textfield.TextInputLayout;
 import com.jobando.jobandotrucking.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityAdminAssignJobBinding implements ViewBinding {
   @NonNull
   private final ConstraintLayout rootView;
 
-  private ActivityAdminAssignJobBinding(@NonNull ConstraintLayout rootView) {
+  @NonNull
+  public final Button assign;
+
+  @NonNull
+  public final TextInputEditText jobAddressText;
+
+  @NonNull
+  public final TextInputEditText jobDetailsText;
+
+  @NonNull
+  public final TextInputEditText placeText;
+
+  @NonNull
+  public final AutoCompleteTextView selectDriver;
+
+  @NonNull
+  public final TextInputLayout text1;
+
+  @NonNull
+  public final TextInputLayout text2;
+
+  @NonNull
+  public final TextInputLayout text3;
+
+  @NonNull
+  public final TextInputLayout textInputLayout4;
+
+  private ActivityAdminAssignJobBinding(@NonNull ConstraintLayout rootView, @NonNull Button assign,
+      @NonNull TextInputEditText jobAddressText, @NonNull TextInputEditText jobDetailsText,
+      @NonNull TextInputEditText placeText, @NonNull AutoCompleteTextView selectDriver,
+      @NonNull TextInputLayout text1, @NonNull TextInputLayout text2,
+      @NonNull TextInputLayout text3, @NonNull TextInputLayout textInputLayout4) {
     this.rootView = rootView;
+    this.assign = assign;
+    this.jobAddressText = jobAddressText;
+    this.jobDetailsText = jobDetailsText;
+    this.placeText = placeText;
+    this.selectDriver = selectDriver;
+    this.text1 = text1;
+    this.text2 = text2;
+    this.text3 = text3;
+    this.textInputLayout4 = textInputLayout4;
   }
 
   @Override
@@ -43,10 +89,68 @@ public final class ActivityAdminAssignJobBinding implements ViewBinding {
 
   @NonNull
   public static ActivityAdminAssignJobBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.assign;
+      Button assign = ViewBindings.findChildViewById(rootView, id);
+      if (assign == null) {
+        break missingId;
+      }
 
-    return new ActivityAdminAssignJobBinding((ConstraintLayout) rootView);
+      id = R.id.job_address_text;
+      TextInputEditText jobAddressText = ViewBindings.findChildViewById(rootView, id);
+      if (jobAddressText == null) {
+        break missingId;
+      }
+
+      id = R.id.job_details_text;
+      TextInputEditText jobDetailsText = ViewBindings.findChildViewById(rootView, id);
+      if (jobDetailsText == null) {
+        break missingId;
+      }
+
+      id = R.id.place_text;
+      TextInputEditText placeText = ViewBindings.findChildViewById(rootView, id);
+      if (placeText == null) {
+        break missingId;
+      }
+
+      id = R.id.selectDriver;
+      AutoCompleteTextView selectDriver = ViewBindings.findChildViewById(rootView, id);
+      if (selectDriver == null) {
+        break missingId;
+      }
+
+      id = R.id.text1;
+      TextInputLayout text1 = ViewBindings.findChildViewById(rootView, id);
+      if (text1 == null) {
+        break missingId;
+      }
+
+      id = com.karumi.dexter.R.id.text2;
+      TextInputLayout text2 = ViewBindings.findChildViewById(rootView, id);
+      if (text2 == null) {
+        break missingId;
+      }
+
+      id = R.id.text3;
+      TextInputLayout text3 = ViewBindings.findChildViewById(rootView, id);
+      if (text3 == null) {
+        break missingId;
+      }
+
+      id = R.id.textInputLayout4;
+      TextInputLayout textInputLayout4 = ViewBindings.findChildViewById(rootView, id);
+      if (textInputLayout4 == null) {
+        break missingId;
+      }
+
+      return new ActivityAdminAssignJobBinding((ConstraintLayout) rootView, assign, jobAddressText,
+          jobDetailsText, placeText, selectDriver, text1, text2, text3, textInputLayout4);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

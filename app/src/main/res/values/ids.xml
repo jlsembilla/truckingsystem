@@ -13,4 +13,7 @@
     <item name="text6" type="id" />
     <item name="text7" type="id" />
     <item name="text8" type="id" />
+    <item name="textview" type="id" />
+    <item name="t1" type="id" />
+    <item name="t2" type="id" />
 </resources>
