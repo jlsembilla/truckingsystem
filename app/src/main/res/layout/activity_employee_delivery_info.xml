@@ -27,7 +27,7 @@
                 android:id="@+id/place"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/app_name"
+                android:text="Cavite"
                 android:textColor="@color/purple_500"
                 android:textSize="32sp"
                 android:textStyle="bold"/>
@@ -47,7 +47,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:visibility="gone"
-                android:text="This is a sample Text"
+                android:text="Canned Goods, Rice, SoftDrinks, etc..."
                 android:textSize="18sp"/>
 
             <View
@@ -64,7 +64,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:visibility="gone"
-                android:text="This is a sample Text"
+                android:text="8W7Q+GJG, Amuntay Rd, Dasmariñas, Cavite"
                 android:textSize="18sp"/>
 
         </LinearLayout>

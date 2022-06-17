@@ -27,6 +27,11 @@
             android:icon="@drawable/viewjobs"
             android:title="View Jobs"/>
 
+        <item
+            android:id="@+id/admin_logout"
+            android:icon="@drawable/logout"
+            android:title="Logout"/>
+
     </group>
 
 </menu>
