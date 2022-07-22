@@ -6,15 +6,38 @@
     android:layout_height="match_parent"
     tools:context=".Employee_Maps_Directions">
 
+    <EditText
+        android:id="@+id/searchLoc"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/searchIcon"
+        app:layout_constraintHorizontal_bias="0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0" />
+
+    <ImageView
+        android:id="@+id/searchIcon"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/search"
+        app:layout_constraintHorizontal_bias="1"
+        app:layout_constraintBottom_toBottomOf="@+id/searchLoc"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/searchLoc" />
+
+
     <fragment
-        class="com.google.android.gms.maps.SupportMapFragment"
         android:id="@+id/google.map"
+        class="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/searchLoc" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"

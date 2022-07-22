@@ -319,6 +319,17 @@
             android:text="Change Password"
             android:textColor="@color/white" />
 
+        <Button
+            android:id="@+id/uploadDriverLicense"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/upload"
+            android:drawableTint="@color/white"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:text="Upload Driver License"
+            android:textColor="@color/white" />
+
     </LinearLayout>
 
 </LinearLayout>

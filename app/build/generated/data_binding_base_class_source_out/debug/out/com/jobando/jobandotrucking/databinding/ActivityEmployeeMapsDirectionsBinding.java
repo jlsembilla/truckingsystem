@@ -4,6 +4,8 @@ package com.jobando.jobandotrucking.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.EditText;
+import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -22,10 +24,19 @@ public final class ActivityEmployeeMapsDirectionsBinding implements ViewBinding 
   @NonNull
   public final FloatingActionButton fab;
 
+  @NonNull
+  public final ImageView searchIcon;
+
+  @NonNull
+  public final EditText searchLoc;
+
   private ActivityEmployeeMapsDirectionsBinding(@NonNull ConstraintLayout rootView,
-      @NonNull FloatingActionButton fab) {
+      @NonNull FloatingActionButton fab, @NonNull ImageView searchIcon,
+      @NonNull EditText searchLoc) {
     this.rootView = rootView;
     this.fab = fab;
+    this.searchIcon = searchIcon;
+    this.searchLoc = searchLoc;
   }
 
   @Override
@@ -61,7 +72,20 @@ public final class ActivityEmployeeMapsDirectionsBinding implements ViewBinding 
         break missingId;
       }
 
-      return new ActivityEmployeeMapsDirectionsBinding((ConstraintLayout) rootView, fab);
+      id = R.id.searchIcon;
+      ImageView searchIcon = ViewBindings.findChildViewById(rootView, id);
+      if (searchIcon == null) {
+        break missingId;
+      }
+
+      id = R.id.searchLoc;
+      EditText searchLoc = ViewBindings.findChildViewById(rootView, id);
+      if (searchLoc == null) {
+        break missingId;
+      }
+
+      return new ActivityEmployeeMapsDirectionsBinding((ConstraintLayout) rootView, fab, searchIcon,
+          searchLoc);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

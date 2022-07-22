@@ -8,6 +8,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.content.Intent;
+import android.location.Address;
+import android.location.Geocoder;
 import android.location.Location;
 import android.location.LocationManager;
 import android.media.audiofx.Equalizer;
@@ -15,6 +17,8 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.provider.Settings;
 import android.view.View;
+import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.google.android.gms.common.ConnectionResult;
@@ -39,6 +43,10 @@ import com.karumi.dexter.listener.PermissionGrantedResponse;
 import com.karumi.dexter.listener.PermissionRequest;
 import com.karumi.dexter.listener.single.PermissionListener;
 
+import java.io.IOException;
+import java.util.List;
+import java.util.Locale;
+
 public class Employee_Maps_Directions extends Employee_Navigation_Drawer_Base implements OnMapReadyCallback, GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener {
 
     ActivityEmployeeMapsDirectionsBinding activityEmployeeMapsDirectionsBinding;
@@ -49,6 +57,9 @@ public class Employee_Maps_Directions extends Employee_Navigation_Drawer_Base im
     private FusedLocationProviderClient fusedLocationProviderClient;
     private int GPS_REQUEST_CODE = 9001;
 
+    EditText searchLoc;
+    ImageView searchIcon;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -57,6 +68,9 @@ public class Employee_Maps_Directions extends Employee_Navigation_Drawer_Base im
         activityEmployeeMapsDirectionsBinding = ActivityEmployeeMapsDirectionsBinding.inflate(getLayoutInflater());
         setContentView(activityEmployeeMapsDirectionsBinding.getRoot());
         allocateActivityTitle("Maps & Directions");
+
+        searchLoc = findViewById(R.id.searchLoc);
+        searchIcon = findViewById(R.id.searchIcon);
 
         floatingActionButton = findViewById(R.id.fab);
         checkMyPermission();
@@ -71,7 +85,33 @@ public class Employee_Maps_Directions extends Employee_Navigation_Drawer_Base im
             }
         });
 
+        searchIcon.setOnClickListener(this::geoLocate);
 
+
+    }
+
+    private void geoLocate(View view) {
+
+        String locationName = searchLoc.getText().toString();
+
+        Geocoder geocoder = new Geocoder(this, Locale.getDefault());
+
+        try {
+
+            List<Address> addressList = geocoder.getFromLocationName(locationName, 1);
+
+            if(addressList.size() > 0){
+                Address address = addressList.get(0);
+
+                gotoLocation(address.getLatitude(), address.getLongitude());
+
+                gMap.addMarker(new MarkerOptions().position(new LatLng(address.getLatitude(), address.getLongitude())));
+
+                Toast.makeText(this, address.getLocality(), Toast.LENGTH_SHORT).show();
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     @SuppressLint("MissingPermission")

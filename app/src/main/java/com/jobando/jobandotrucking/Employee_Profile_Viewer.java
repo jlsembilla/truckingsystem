@@ -3,6 +3,7 @@ package com.jobando.jobandotrucking;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
@@ -30,6 +31,7 @@ public class Employee_Profile_Viewer extends Employee_Navigation_Drawer_Base {
 
     TextView tfullname, fullname, age, email, workExp, tmodel, platenum;
     Button changeB;
+    Button uploadDL;
 
 
     EmployeeID eid = new EmployeeID();
@@ -43,6 +45,8 @@ public class Employee_Profile_Viewer extends Employee_Navigation_Drawer_Base {
         allocateActivityTitle("Profile");
 
         db = FirebaseFirestore.getInstance();
+
+        uploadDL = findViewById(R.id.uploadDriverLicense);
 
         changeB = findViewById(R.id.changePass);
         tfullname = findViewById(R.id.top_full_name);
@@ -92,5 +96,15 @@ public class Employee_Profile_Viewer extends Employee_Navigation_Drawer_Base {
                         Toast.makeText(Employee_Profile_Viewer.this, "Cannot Sync Data!", Toast.LENGTH_SHORT).show();
                     }
                 });
+
+        uploadDL.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Employee_Profile_Viewer.this, Employee_Upload_Driver_License.class);
+                startActivity(intent);
+            }
+        });
+
     }
+
 }

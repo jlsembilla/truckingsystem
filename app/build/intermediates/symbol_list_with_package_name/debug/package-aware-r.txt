@@ -2658,6 +2658,7 @@ drawable profile
 drawable profilep
 drawable records
 drawable rounded_edit_text
+drawable search
 drawable test_custom_background
 drawable test_level_drawable
 drawable time
@@ -3101,6 +3102,8 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id searchIcon
+id searchLoc
 id search_badge
 id search_bar
 id search_button

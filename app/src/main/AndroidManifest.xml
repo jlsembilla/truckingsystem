@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JObandoTrucking">
         <activity
+            android:name=".Employee_Upload_Driver_License"
+            android:exported="false" />
+        <activity
             android:name=".Employee_Profile_Viewer"
             android:exported="false" />
         <activity
