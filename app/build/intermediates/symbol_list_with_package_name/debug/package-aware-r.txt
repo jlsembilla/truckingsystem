@@ -2564,6 +2564,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable calendar
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2604,6 +2605,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable idclipart
 drawable lock
 drawable login_bg
 drawable logo
@@ -2659,11 +2661,13 @@ drawable profilep
 drawable records
 drawable rounded_edit_text
 drawable search
+drawable snapshot
 drawable test_custom_background
 drawable test_level_drawable
 drawable time
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable upload
 drawable vehicle
 drawable viewdrivers
 drawable viewjobs
@@ -2771,6 +2775,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id backViewImage
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -2789,6 +2794,8 @@ id buttonPanel
 id cache_measures
 id callMeasure
 id cancel_button
+id captureBackView
+id captureFrontView
 id carryVelocity
 id center
 id centerCrop
@@ -2906,6 +2913,7 @@ id flip
 id floating
 id forever
 id fragment_container_view_tag
+id frontViewImage
 id frost
 id full_name
 id fullscreen_header
@@ -2959,6 +2967,7 @@ id left
 id leftToRight
 id left_to_right
 id legacy
+id licenseExpirationDate
 id light
 id line1
 id line3
@@ -3114,7 +3123,9 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id selectBackImage
 id selectDriver
+id selectImage
 id select_dialog_listview
 id selected
 id selection_type
@@ -3197,6 +3208,7 @@ id textTop
 id textView2
 id textView3
 id textView4
+id textView5
 id textView6
 id textView7
 id textView8
@@ -3237,6 +3249,9 @@ id unchecked
 id uniform
 id unlabeled
 id up
+id uploadBackID
+id uploadDriverLicense
+id uploadFrontID
 id useLogo
 id usernametxt
 id vertical_only
@@ -3366,6 +3381,8 @@ layout activity_employee_maps_directions
 layout activity_employee_navigation_drawer_base
 layout activity_employee_past_records
 layout activity_employee_profile_viewer
+layout activity_employee_scan_back_id
+layout activity_employee_scan_front_id
 layout activity_employee_working_hours
 layout activity_main
 layout admin_content_layout
@@ -3532,6 +3549,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string for_profile_and_registration_completion_please_upload_n_your_drivers_license
 string gcm_defaultSenderId
 string google_api_key
 string google_app_id
@@ -4849,6 +4867,7 @@ styleable ViewPager2 android_orientation
 styleable ViewStubCompat android_id android_layout android_inflatedId
 styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration ifTagNotSet ifTagSet motionInterpolator motionTarget onStateTransition pathMotionArc setsTag transitionDisable upDuration viewTransitionMode
 styleable include constraintSet
+xml provider_path
 xml standalone_badge
 xml standalone_badge_gravity_bottom_end
 xml standalone_badge_gravity_bottom_start

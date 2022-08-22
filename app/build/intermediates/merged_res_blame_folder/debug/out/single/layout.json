@@ -1,82 +1,94 @@
 [
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\list_item.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\main_drawer_header.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\main_drawer_header.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\past_records_row.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\past_records_row.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\employee_content_layout.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\employee_content_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_employee_profile_viewer.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_profile_viewer.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_employee_scan_front_id.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_scan_front_id.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_employee_delivery_info.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_delivery_info.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_employee_working_hours.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_working_hours.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_assign_job.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_admin_assign_job.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_employee_navigation_drawer_base.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_navigation_drawer_base.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_drawer_header.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\main_drawer_header.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_admin_view_drivers.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_view_drivers.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_employee_maps_directions.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_maps_directions.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_employee_delivery_info.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_delivery_info.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_admin_assign_job.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_assign_job.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_view_drivers.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_admin_view_drivers.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_admin_driver_registration.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_driver_registration.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_driver_registration.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_admin_driver_registration.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_employee_profile_viewer.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_profile_viewer.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_employee_navigation_drawer_base.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_navigation_drawer_base.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_employee_working_hours.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_working_hours.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_employee_dashboard.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_employee_dashboard.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_dashboard.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_employee_past_records.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_past_records.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\employee_content_layout.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\employee_content_layout.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\view_drivers_row.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\view_drivers_row.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_view_jobs.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_admin_view_jobs.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_admin_dashboard.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_employee_past_records.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_employee_past_records.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\admin_content_layout.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\admin_content_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\admin_content_layout.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\admin_content_layout.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\list_item.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\view_drivers_row.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\view_drivers_row.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_admin_navigation_drawer_base.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_navigation_drawer_base.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_navigation_drawer_base.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_admin_navigation_drawer_base.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_employee_maps_directions.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_maps_directions.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin_dashboard.xml",
-        "source": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\src\\main\\res\\layout\\activity_admin_dashboard.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_admin_view_jobs.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_view_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\activity_employee_scan_back_id.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_scan_back_id.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-38:\\layout\\past_records_row.xml",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\past_records_row.xml"
+    },
+    {
+        "merged": "com.jobando.jobandotrucking.app-mergeDebugResources-38:/layout/activity_employee_scan_back_id.xml",
+        "source": "com.jobando.jobandotrucking.app-main-41:/layout/activity_employee_scan_back_id.xml"
     }
 ]

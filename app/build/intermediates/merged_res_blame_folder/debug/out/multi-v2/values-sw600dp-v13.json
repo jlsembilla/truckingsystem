@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Jasel\\AndroidStudioProjects\\truckingsystem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "com.jobando.jobandotrucking.app-mergeDebugResources-37:/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\4729d8de1a4ea7ad9d15b7332b37ad6c\\transformed\\appcompat-1.4.2\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\e76917dfb8e400b12bf4814170368038\\transformed\\appcompat-1.4.2\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\877d7c53c79e3b8c5e4bae43f6741415\\transformed\\material-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\08b7d585fff60edef3d7e3cf289f28d7\\transformed\\material-1.6.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",

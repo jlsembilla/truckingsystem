@@ -17,11 +17,13 @@ color teal_700
 color white
 drawable addperson
 drawable addtask
+drawable calendar
 drawable email
 drawable file
 drawable home
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable idclipart
 drawable lock
 drawable login_bg
 drawable logo
@@ -36,7 +38,9 @@ drawable profilep
 drawable records
 drawable rounded_edit_text
 drawable search
+drawable snapshot
 drawable time
+drawable upload
 drawable vehicle
 drawable viewdrivers
 drawable viewjobs
@@ -54,8 +58,11 @@ id age
 id ageText
 id appBarLayout
 id assign
+id backViewImage
 id button2
 id buttonLogin
+id captureBackView
+id captureFrontView
 id changePass
 id date
 id description
@@ -72,6 +79,7 @@ id employee_working_hours
 id employees
 id fab
 id firstNameText
+id frontViewImage
 id full_name
 id google.map
 id imageView
@@ -81,6 +89,7 @@ id job_address_text
 id job_details
 id job_details_text
 id lastNameText
+id licenseExpirationDate
 id linear_layout
 id middleNameText
 id nav_view
@@ -96,7 +105,9 @@ id registerBtn
 id registeredTrucks
 id searchIcon
 id searchLoc
+id selectBackImage
 id selectDriver
+id selectImage
 id t1
 id t2
 id text1
@@ -110,6 +121,7 @@ id textInputLayout4
 id textView2
 id textView3
 id textView4
+id textView5
 id textView6
 id textView7
 id textView8
@@ -120,6 +132,9 @@ id toolBar
 id top_full_name
 id truckModelText
 id truck_model
+id uploadBackID
+id uploadDriverLicense
+id uploadFrontID
 id usernametxt
 id view1
 id view2
@@ -136,6 +151,8 @@ layout activity_employee_maps_directions
 layout activity_employee_navigation_drawer_base
 layout activity_employee_past_records
 layout activity_employee_profile_viewer
+layout activity_employee_scan_back_id
+layout activity_employee_scan_front_id
 layout activity_employee_working_hours
 layout activity_main
 layout admin_content_layout
@@ -150,6 +167,7 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
 string default_web_client_id
+string for_profile_and_registration_completion_please_upload_n_your_drivers_license
 string gcm_defaultSenderId
 string google_api_key
 string google_app_id
@@ -160,3 +178,4 @@ string menu_drawer_open
 string project_id
 string title_activity_maps
 style Theme.JObandoTrucking
+xml provider_path

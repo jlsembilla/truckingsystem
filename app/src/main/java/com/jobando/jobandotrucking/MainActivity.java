@@ -81,9 +81,23 @@ public class MainActivity extends AppCompatActivity {
 
                                         String eid = document.getString("EmployeeID");
 
-                                        Log.d("daw", eid);
+                                        db.collection("Drivers")
+                                                .whereEqualTo("EmployeeID", eid)
+                                                .get()
+                                                .addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
+                                                    @Override
+                                                    public void onComplete(@NonNull Task<QuerySnapshot> task) {
+                                                        if(task.isSuccessful()){
+                                                            for(QueryDocumentSnapshot document : task.getResult()){
+                                                                String eName = document.getString("Last Name");
 
-                                        epv.setEmployeeID(eid);
+                                                                epv.setEmployeeID(eid);
+                                                                epv.setEmployeeName(eName);
+                                                            }
+                                                        }
+                                                    }
+                                                });
+
                                         Intent intent = new Intent(MainActivity.this, Employee_Dashboard.class);
                                         startActivity(intent);
                                         Toast.makeText(MainActivity.this, "Employee Login Success", Toast.LENGTH_SHORT).show();
