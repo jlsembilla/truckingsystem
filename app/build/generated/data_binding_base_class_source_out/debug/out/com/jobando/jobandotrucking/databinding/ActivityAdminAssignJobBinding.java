@@ -35,6 +35,9 @@ public final class ActivityAdminAssignJobBinding implements ViewBinding {
   public final TextInputEditText placeText;
 
   @NonNull
+  public final AutoCompleteTextView selectAccompaniedDriver;
+
+  @NonNull
   public final AutoCompleteTextView selectDriver;
 
   @NonNull
@@ -49,21 +52,27 @@ public final class ActivityAdminAssignJobBinding implements ViewBinding {
   @NonNull
   public final TextInputLayout textInputLayout4;
 
+  @NonNull
+  public final TextInputLayout textInputLayout5;
+
   private ActivityAdminAssignJobBinding(@NonNull ConstraintLayout rootView, @NonNull Button assign,
       @NonNull TextInputEditText jobAddressText, @NonNull TextInputEditText jobDetailsText,
-      @NonNull TextInputEditText placeText, @NonNull AutoCompleteTextView selectDriver,
-      @NonNull TextInputLayout text1, @NonNull TextInputLayout text2,
-      @NonNull TextInputLayout text3, @NonNull TextInputLayout textInputLayout4) {
+      @NonNull TextInputEditText placeText, @NonNull AutoCompleteTextView selectAccompaniedDriver,
+      @NonNull AutoCompleteTextView selectDriver, @NonNull TextInputLayout text1,
+      @NonNull TextInputLayout text2, @NonNull TextInputLayout text3,
+      @NonNull TextInputLayout textInputLayout4, @NonNull TextInputLayout textInputLayout5) {
     this.rootView = rootView;
     this.assign = assign;
     this.jobAddressText = jobAddressText;
     this.jobDetailsText = jobDetailsText;
     this.placeText = placeText;
+    this.selectAccompaniedDriver = selectAccompaniedDriver;
     this.selectDriver = selectDriver;
     this.text1 = text1;
     this.text2 = text2;
     this.text3 = text3;
     this.textInputLayout4 = textInputLayout4;
+    this.textInputLayout5 = textInputLayout5;
   }
 
   @Override
@@ -117,6 +126,12 @@ public final class ActivityAdminAssignJobBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.selectAccompaniedDriver;
+      AutoCompleteTextView selectAccompaniedDriver = ViewBindings.findChildViewById(rootView, id);
+      if (selectAccompaniedDriver == null) {
+        break missingId;
+      }
+
       id = R.id.selectDriver;
       AutoCompleteTextView selectDriver = ViewBindings.findChildViewById(rootView, id);
       if (selectDriver == null) {
@@ -147,8 +162,15 @@ public final class ActivityAdminAssignJobBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.textInputLayout5;
+      TextInputLayout textInputLayout5 = ViewBindings.findChildViewById(rootView, id);
+      if (textInputLayout5 == null) {
+        break missingId;
+      }
+
       return new ActivityAdminAssignJobBinding((ConstraintLayout) rootView, assign, jobAddressText,
-          jobDetailsText, placeText, selectDriver, text1, text2, text3, textInputLayout4);
+          jobDetailsText, placeText, selectAccompaniedDriver, selectDriver, text1, text2, text3,
+          textInputLayout4, textInputLayout5);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

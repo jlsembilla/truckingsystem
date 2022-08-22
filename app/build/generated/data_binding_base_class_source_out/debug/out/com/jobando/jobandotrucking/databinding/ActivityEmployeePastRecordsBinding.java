@@ -20,12 +20,12 @@ public final class ActivityEmployeePastRecordsBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final RecyclerView recyclerView;
+  public final RecyclerView recyclerViewRecords;
 
   private ActivityEmployeePastRecordsBinding(@NonNull ConstraintLayout rootView,
-      @NonNull RecyclerView recyclerView) {
+      @NonNull RecyclerView recyclerViewRecords) {
     this.rootView = rootView;
-    this.recyclerView = recyclerView;
+    this.recyclerViewRecords = recyclerViewRecords;
   }
 
   @Override
@@ -55,13 +55,14 @@ public final class ActivityEmployeePastRecordsBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.recyclerView;
-      RecyclerView recyclerView = ViewBindings.findChildViewById(rootView, id);
-      if (recyclerView == null) {
+      id = R.id.recyclerViewRecords;
+      RecyclerView recyclerViewRecords = ViewBindings.findChildViewById(rootView, id);
+      if (recyclerViewRecords == null) {
         break missingId;
       }
 
-      return new ActivityEmployeePastRecordsBinding((ConstraintLayout) rootView, recyclerView);
+      return new ActivityEmployeePastRecordsBinding((ConstraintLayout) rootView,
+          recyclerViewRecords);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
