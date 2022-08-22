@@ -1,282 +1,298 @@
 [
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_employee_maps_directions.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_maps_directions.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable-v24_logo.png.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable-v24\\logo.png"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_map.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\map.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_menu.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\menu.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_admin_view_drivers.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_admin_view_drivers.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_employee_past_records.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_past_records.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\menu_admin_main_drawer_menu.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\menu\\admin_main_drawer_menu.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable-v24_login_bg.jpg.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable-v24\\login_bg.jpg"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_employee_content_layout.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\employee_content_layout.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_viewjobs.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\viewjobs.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_email.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\email.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_employee_scan_back_id.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_scan_back_id.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\profile.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_employee_working_hours.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_working_hours.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_viewdrivers.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\viewdrivers.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_admin_dashboard.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_dashboard.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_admin_driver_registration.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_admin_driver_registration.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_place.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\place.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_file.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\file.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_employee_navigation_drawer_base.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_navigation_drawer_base.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_employee_delivery_info.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_delivery_info.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_view_drivers_row.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\view_drivers_row.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_employee_profile_viewer.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_profile_viewer.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_rounded_edit_text.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\rounded_edit_text.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_time.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\time.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\xml_provider_path.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\xml\\provider_path.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_logout.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\logout.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_lock.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\lock.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.jobando.jobandotrucking.app-merged_res-39:/layout_activity_employee_scan_back_id.xml.flat",
-        "source": "com.jobando.jobandotrucking.app-main-41:/layout/activity_employee_scan_back_id.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_main_drawer_header.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\main_drawer_header.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_admin_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_employee_delivery_info.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_delivery_info.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_snapshot.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\snapshot.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\menu_employee_main_drawer_menu.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\menu\\employee_main_drawer_menu.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_calendar.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\calendar.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_warning.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\warning.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_idclipart.png.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\idclipart.png"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_admin_view_jobs.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_admin_view_jobs.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_viewjobs.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\viewjobs.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_warning.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\warning.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_admin_navigation_drawer_base.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_admin_navigation_drawer_base.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_records.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\records.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_menu.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\menu.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_addperson.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\addperson.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_records.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\records.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_list_item.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\list_item.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_time.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\time.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_vehicle.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\vehicle.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\font_baloo_bhai.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\font\\baloo_bhai.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_logout.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\logout.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_email.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\email.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_admin_navigation_drawer_base.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_navigation_drawer_base.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_idclipart.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\idclipart.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_upload.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\upload.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_profilep.jpg.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\profilep.jpg"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable-v24\\logo.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_employee_maps_directions.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_maps_directions.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\xml_provider_path.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\xml\\provider_path.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_snapshot.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\snapshot.xml"
+        "merged": "com.jobando.jobandotrucking.app-merged_res-48:/layout_activity_admin_assign_job.xml.flat",
+        "source": "com.jobando.jobandotrucking.app-main-50:/layout/activity_admin_assign_job.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_person.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\person.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_admin_view_jobs.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_view_jobs.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_addperson.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\addperson.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_employee_navigation_drawer_base.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_navigation_drawer_base.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_work.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\work.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_employee_scan_back_id.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_scan_back_id.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_admin_content_layout.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\admin_content_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_employee_past_records.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_past_records.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_admin_view_drivers.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_view_drivers.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\menu_employee_main_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\menu\\employee_main_drawer_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_viewdrivers.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\viewdrivers.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_lock.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\lock.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\font_baloo_bhai.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\font\\baloo_bhai.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_admin_assign_job.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_admin_assign_job.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_profile.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\profile.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_vehicle.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\vehicle.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_employee_profile_viewer.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_profile_viewer.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_notif.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\notif.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_admin_content_layout.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\admin_content_layout.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable-v24_login_bg.jpg.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable-v24\\login_bg.jpg"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_addtask.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\addtask.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_home.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\home.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_employee_dashboard.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_upload.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\upload.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_search.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\search.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_rounded_edit_text.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\rounded_edit_text.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_person.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\person.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\menu_admin_main_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\menu\\admin_main_drawer_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_employee_dashboard.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_dashboard.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_addtask.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\addtask.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_work.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\work.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_main_drawer_header.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\main_drawer_header.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_home.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\home.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_employee_working_hours.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_working_hours.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_activity_employee_scan_front_id.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_scan_front_id.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_past_records_row.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\past_records_row.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_view_drivers_row.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\view_drivers_row.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_admin_driver_registration.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_driver_registration.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_employee_scan_front_id.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_employee_scan_front_id.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_profilep.jpg.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\profilep.jpg"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_map.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\map.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_place.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\place.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\layout_activity_admin_assign_job.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\layout\\activity_admin_assign_job.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_notif.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\notif.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\search.xml"
     },
     {
-        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-39:\\drawable_calendar.xml.flat",
-        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-41:\\drawable\\calendar.xml"
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_file.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\file.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\drawable_location.jpg.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\drawable\\location.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_employee_content_layout.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\employee_content_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-merged_res-48:\\layout_past_records_row.xml.flat",
+        "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\past_records_row.xml"
     }
 ]

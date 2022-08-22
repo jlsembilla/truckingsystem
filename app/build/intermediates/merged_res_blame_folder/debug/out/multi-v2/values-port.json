@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.jobando.jobandotrucking.app-mergeDebugResources-37:/values-port/values-port.xml",
+            "outputFile": "com.jobando.jobandotrucking.app-mergeDebugResources-46:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\e76917dfb8e400b12bf4814170368038\\transformed\\appcompat-1.4.2\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\Jasel\\.gradle\\caches\\transforms-3\\9c2205ae5682a00a36a2c3a16a114c9c\\transformed\\appcompat-1.5.0\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

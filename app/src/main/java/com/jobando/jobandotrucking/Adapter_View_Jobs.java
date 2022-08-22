@@ -54,10 +54,6 @@ public class Adapter_View_Jobs extends RecyclerView.Adapter<Adapter_View_Jobs.My
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);
 
-            myText1 = itemView.findViewById(R.id.title_text);
-            myText2 = itemView.findViewById(R.id.description);
-            myText3 = itemView.findViewById(R.id.date);
-            imageView = itemView.findViewById(R.id.images);
         }
     }
 }

@@ -29,23 +29,23 @@
 17    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 18    <!-- <uses-sdk android:minSdkVersion="14" /> -->
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\176db9569c2c01f7083bc1bc7efa7f7b\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:13:5-79
-19-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\176db9569c2c01f7083bc1bc7efa7f7b\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:13:22-76
+19-->[com.google.firebase:firebase-firestore:24.2.2] C:\Users\Jasel\.gradle\caches\transforms-3\d06649099c2dffb11e15e9b67d65430d\transformed\firebase-firestore-24.2.2\AndroidManifest.xml:13:5-79
+19-->[com.google.firebase:firebase-firestore:24.2.2] C:\Users\Jasel\.gradle\caches\transforms-3\d06649099c2dffb11e15e9b67d65430d\transformed\firebase-firestore-24.2.2\AndroidManifest.xml:13:22-76
 20
 21    <uses-feature
-21-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\2436bff10933a5ba777da869a5de0664\transformed\play-services-maps-18.0.2\AndroidManifest.xml:26:5-28:35
+21-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\271dee5c30a86481c3f0a4e6683b0730\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
 22        android:glEsVersion="0x00020000"
-22-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\2436bff10933a5ba777da869a5de0664\transformed\play-services-maps-18.0.2\AndroidManifest.xml:27:9-41
+22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\271dee5c30a86481c3f0a4e6683b0730\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
 23        android:required="true" />
-23-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\2436bff10933a5ba777da869a5de0664\transformed\play-services-maps-18.0.2\AndroidManifest.xml:28:9-32
+23-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\271dee5c30a86481c3f0a4e6683b0730\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
 24
 25    <queries>
-25-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\2436bff10933a5ba777da869a5de0664\transformed\play-services-maps-18.0.2\AndroidManifest.xml:30:5-34:15
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\271dee5c30a86481c3f0a4e6683b0730\transformed\play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
 26
 27        <!-- Needs to be explicitly declared on Android R+ -->
 28        <package android:name="com.google.android.apps.maps" />
-28-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\2436bff10933a5ba777da869a5de0664\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:9-64
-28-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\2436bff10933a5ba777da869a5de0664\transformed\play-services-maps-18.0.2\AndroidManifest.xml:33:18-61
+28-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\271dee5c30a86481c3f0a4e6683b0730\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+28-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\271dee5c30a86481c3f0a4e6683b0730\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
 29    </queries>
 30
 31    <application
@@ -53,7 +53,7 @@
 32        android:allowBackup="true"
 32-->C:\Users\Jasel\AndroidStudioProjects\truckingsystem\app\src\main\AndroidManifest.xml:12:9-35
 33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-33-->[androidx.core:core:1.7.0] C:\Users\Jasel\.gradle\caches\transforms-3\c8bb39bf746aef9e9cd6ae03354e8a93\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+33-->[androidx.core:core:1.8.0] C:\Users\Jasel\.gradle\caches\transforms-3\668573852a7a39e964800b3a424437d1\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 34        android:debuggable="true"
 35        android:extractNativeLibs="false"
 36        android:icon="@drawable/logo"
@@ -223,19 +223,19 @@
 121-->[com.karumi:dexter:6.2.3] C:\Users\Jasel\.gradle\caches\transforms-3\93f51d6bda2072ddc42537e718d70f12\transformed\dexter-6.2.3\AndroidManifest.xml:29:13-69
 122
 123        <service
-123-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\176db9569c2c01f7083bc1bc7efa7f7b\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:17:9-23:19
+123-->[com.google.firebase:firebase-firestore:24.2.2] C:\Users\Jasel\.gradle\caches\transforms-3\d06649099c2dffb11e15e9b67d65430d\transformed\firebase-firestore-24.2.2\AndroidManifest.xml:17:9-23:19
 124            android:name="com.google.firebase.components.ComponentDiscoveryService"
-124-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\176db9569c2c01f7083bc1bc7efa7f7b\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:18:13-84
+124-->[com.google.firebase:firebase-firestore:24.2.2] C:\Users\Jasel\.gradle\caches\transforms-3\d06649099c2dffb11e15e9b67d65430d\transformed\firebase-firestore-24.2.2\AndroidManifest.xml:18:13-84
 125            android:directBootAware="true"
 125-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\865eb40cc8d7f097b683123edb90c980\transformed\firebase-common-20.1.1\AndroidManifest.xml:35:13-43
 126            android:exported="false" >
-126-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\176db9569c2c01f7083bc1bc7efa7f7b\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:19:13-37
+126-->[com.google.firebase:firebase-firestore:24.2.2] C:\Users\Jasel\.gradle\caches\transforms-3\d06649099c2dffb11e15e9b67d65430d\transformed\firebase-firestore-24.2.2\AndroidManifest.xml:19:13-37
 127            <meta-data
-127-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\176db9569c2c01f7083bc1bc7efa7f7b\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:20:13-22:85
+127-->[com.google.firebase:firebase-firestore:24.2.2] C:\Users\Jasel\.gradle\caches\transforms-3\d06649099c2dffb11e15e9b67d65430d\transformed\firebase-firestore-24.2.2\AndroidManifest.xml:20:13-22:85
 128                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-128-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\176db9569c2c01f7083bc1bc7efa7f7b\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:21:17-111
+128-->[com.google.firebase:firebase-firestore:24.2.2] C:\Users\Jasel\.gradle\caches\transforms-3\d06649099c2dffb11e15e9b67d65430d\transformed\firebase-firestore-24.2.2\AndroidManifest.xml:21:17-111
 129                android:value="com.google.firebase.components.ComponentRegistrar" />
-129-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\Jasel\.gradle\caches\transforms-3\176db9569c2c01f7083bc1bc7efa7f7b\transformed\firebase-firestore-24.1.2\AndroidManifest.xml:22:17-82
+129-->[com.google.firebase:firebase-firestore:24.2.2] C:\Users\Jasel\.gradle\caches\transforms-3\d06649099c2dffb11e15e9b67d65430d\transformed\firebase-firestore-24.2.2\AndroidManifest.xml:22:17-82
 130            <meta-data
 130-->[com.google.firebase:firebase-database:20.0.5] C:\Users\Jasel\.gradle\caches\transforms-3\e2030fdb3e0be43b3b5b9c425943dc73\transformed\firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
 131                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
@@ -250,11 +250,11 @@
 135-->[com.google.firebase:firebase-storage:20.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\4437036788c2d7405bf4270e6de203f4\transformed\firebase-storage-20.0.1\AndroidManifest.xml:35:17-82
 136        </service> <!-- Needs to be explicitly declared on P+ -->
 137        <uses-library
-137-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\2436bff10933a5ba777da869a5de0664\transformed\play-services-maps-18.0.2\AndroidManifest.xml:39:9-41:40
+137-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\271dee5c30a86481c3f0a4e6683b0730\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
 138            android:name="org.apache.http.legacy"
-138-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\2436bff10933a5ba777da869a5de0664\transformed\play-services-maps-18.0.2\AndroidManifest.xml:40:13-50
+138-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\271dee5c30a86481c3f0a4e6683b0730\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
 139            android:required="false" />
-139-->[com.google.android.gms:play-services-maps:18.0.2] C:\Users\Jasel\.gradle\caches\transforms-3\2436bff10933a5ba777da869a5de0664\transformed\play-services-maps-18.0.2\AndroidManifest.xml:41:13-37
+139-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Jasel\.gradle\caches\transforms-3\271dee5c30a86481c3f0a4e6683b0730\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
 140
 141        <activity
 141-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Jasel\.gradle\caches\transforms-3\b380d5295f57c3a80eed0d0818eb6560\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
@@ -278,25 +278,25 @@
 151            android:initOrder="100" />
 151-->[com.google.firebase:firebase-common:20.1.1] C:\Users\Jasel\.gradle\caches\transforms-3\865eb40cc8d7f097b683123edb90c980\transformed\firebase-common-20.1.1\AndroidManifest.xml:31:13-36
 152        <provider
-152-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\fda2068459227dd6afa12120695ec193\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+152-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jasel\.gradle\caches\transforms-3\d94936ff7313e83f1cbd5ab38628bb2a\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 153            android:name="androidx.startup.InitializationProvider"
-153-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\fda2068459227dd6afa12120695ec193\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+153-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jasel\.gradle\caches\transforms-3\d94936ff7313e83f1cbd5ab38628bb2a\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
 154            android:authorities="com.jobando.jobandotrucking.androidx-startup"
-154-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\fda2068459227dd6afa12120695ec193\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+154-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jasel\.gradle\caches\transforms-3\d94936ff7313e83f1cbd5ab38628bb2a\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
 155            android:exported="false" >
-155-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\fda2068459227dd6afa12120695ec193\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+155-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jasel\.gradle\caches\transforms-3\d94936ff7313e83f1cbd5ab38628bb2a\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 156            <meta-data
-156-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\fda2068459227dd6afa12120695ec193\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+156-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jasel\.gradle\caches\transforms-3\d94936ff7313e83f1cbd5ab38628bb2a\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 157                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-157-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\fda2068459227dd6afa12120695ec193\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+157-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jasel\.gradle\caches\transforms-3\d94936ff7313e83f1cbd5ab38628bb2a\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 158                android:value="androidx.startup" />
-158-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Jasel\.gradle\caches\transforms-3\fda2068459227dd6afa12120695ec193\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+158-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Jasel\.gradle\caches\transforms-3\d94936ff7313e83f1cbd5ab38628bb2a\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
 159            <meta-data
-159-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Jasel\.gradle\caches\transforms-3\3b25bcab0c6b3a73647f01750c49ff8c\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+159-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jasel\.gradle\caches\transforms-3\b9c70e303146fe3b642bac16a1901dd0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
 160                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-160-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Jasel\.gradle\caches\transforms-3\3b25bcab0c6b3a73647f01750c49ff8c\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+160-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jasel\.gradle\caches\transforms-3\b9c70e303146fe3b642bac16a1901dd0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
 161                android:value="androidx.startup" />
-161-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Jasel\.gradle\caches\transforms-3\3b25bcab0c6b3a73647f01750c49ff8c\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+161-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Jasel\.gradle\caches\transforms-3\b9c70e303146fe3b642bac16a1901dd0\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
 162        </provider>
 163
 164        <uses-library

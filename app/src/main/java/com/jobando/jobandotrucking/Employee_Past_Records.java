@@ -1,11 +1,14 @@
 package com.jobando.jobandotrucking;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
+import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
 import com.jobando.jobandotrucking.databinding.ActivityEmployeePastRecordsBinding;
@@ -15,9 +18,6 @@ import java.util.List;
 public class Employee_Past_Records extends Employee_Navigation_Drawer_Base{
 
     ActivityEmployeePastRecordsBinding activityEmployeePastRecordsBinding;
-
-    String s1[], s2[], s3[];
-    int images[] = {R.drawable.place, R.drawable.place, R.drawable.place, R.drawable.place, R.drawable.place};
 
     RecyclerView recyclerView;
 
@@ -29,14 +29,30 @@ public class Employee_Past_Records extends Employee_Navigation_Drawer_Base{
         setContentView(activityEmployeePastRecordsBinding.getRoot());
         allocateActivityTitle("Past Records");
 
-        recyclerView = findViewById(R.id.recyclerView);
+        recyclerView = findViewById(R.id.recyclerViewRecords);
+    }
 
-        s1 = getResources().getStringArray(R.array.sample_place);
-        s2 = getResources().getStringArray(R.array.description);
-        s3 = getResources().getStringArray(R.array.date);
+    class rowHolder extends RecyclerView.ViewHolder{
+        public rowHolder(@NonNull View itemView) {
+            super(itemView);
+        }
+    }
 
-        Adapter_Past_Records myAdapter = new Adapter_Past_Records(this, s1, s2, s3, images);
-        recyclerView.setAdapter(myAdapter);
-        recyclerView.setLayoutManager(new LinearLayoutManager(this));
+    class rvAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
+        @NonNull
+        @Override
+        public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+            return null;
+        }
+
+        @Override
+        public void onBindViewHolder(@NonNull RecyclerView.ViewHolder holder, int position) {
+
+        }
+
+        @Override
+        public int getItemCount() {
+            return 0;
+        }
     }
 }
