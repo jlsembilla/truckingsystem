@@ -37,6 +37,7 @@
 
     </string-array>
     <array name="preloaded_fonts" translatable="false">
+        <item>@font/akaya_telivigala</item>
         <item>@font/baloo_bhai</item>
     </array>
     <string-array name="sample_place">
