@@ -12,7 +12,7 @@
     <DigitalClock
         android:id="@+id/digitalClock"
         android:layout_width="wrap_content"
-        android:layout_height="100dp"
+        android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
         android:fontFamily="@font/baloo_bhai"
@@ -24,12 +24,118 @@
         android:layout_height="wrap_content"
         android:textStyle="italic"
         android:textSize="20dp"
-        android:text="December 5, 2022"
+        android:text=""
         android:layout_gravity="center"/>
 
     <androidx.cardview.widget.CardView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="400dp"
+        android:layout_marginTop="20dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="8dp"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="@color/teal_700"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:text="Check in:"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:padding="5dp"
+                android:textSize="16dp"
+                android:text="11:59 AM, December 5, 2022, Monday"
+                android:textStyle="italic"/>
+
+            <View
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/teal_700"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:text="Check out:"
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:padding="5dp"
+                android:textSize="16dp"
+                android:text="8:00 PM, May 28, 2022, Saturday"
+                android:textStyle="italic"/>
+
+            <View
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/teal_700"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:text="ETA to destination: "
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:padding="5dp"
+                android:textSize="16dp"
+                android:text="3 Hours &amp; 57 minutes, 200km"
+                android:textStyle="italic"/>
+
+            <View
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/teal_700"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:text="Break Time: "
+                android:padding="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:padding="5dp"
+                android:textSize="16dp"
+                android:text="12:00 PM - 1:00 PM"
+                android:textStyle="italic"/>
+
+           
+
+        </LinearLayout>
+
+
 
     </androidx.cardview.widget.CardView>
 
