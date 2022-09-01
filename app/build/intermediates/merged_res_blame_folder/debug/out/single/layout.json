@@ -40,16 +40,16 @@
         "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_admin_assign_job.xml"
     },
     {
-        "merged": "com.jobando.jobandotrucking.app-mergeDebugResources-47:/layout/activity_admin_assign_job.xml",
-        "source": "com.jobando.jobandotrucking.app-main-50:/layout/activity_admin_assign_job.xml"
-    },
-    {
         "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-47:\\layout\\activity_employee_profile_viewer.xml",
         "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_employee_profile_viewer.xml"
     },
     {
         "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-47:\\layout\\activity_admin_dashboard.xml",
         "source": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-main-50:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.jobando.jobandotrucking.app-mergeDebugResources-47:/layout/activity_employee_working_hours.xml",
+        "source": "com.jobando.jobandotrucking.app-main-50:/layout/activity_employee_working_hours.xml"
     },
     {
         "merged": "C:\\Users\\Jasel\\.gradle\\daemon\\7.3.3\\com.jobando.jobandotrucking.app-mergeDebugResources-47:\\layout\\activity_employee_delivery_info.xml",

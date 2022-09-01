@@ -4,11 +4,11 @@ package com.jobando.jobandotrucking.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.DigitalClock;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.cardview.widget.CardView;
-import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.jobando.jobandotrucking.R;
@@ -18,33 +18,24 @@ import java.lang.String;
 
 public final class ActivityEmployeeWorkingHoursBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final LinearLayout rootView;
 
   @NonNull
-  public final CardView employees;
+  public final TextView dateToday;
 
   @NonNull
-  public final TextView textView4;
+  public final DigitalClock digitalClock;
 
-  @NonNull
-  public final TextView textView8;
-
-  @NonNull
-  public final TextView textView9;
-
-  private ActivityEmployeeWorkingHoursBinding(@NonNull ConstraintLayout rootView,
-      @NonNull CardView employees, @NonNull TextView textView4, @NonNull TextView textView8,
-      @NonNull TextView textView9) {
+  private ActivityEmployeeWorkingHoursBinding(@NonNull LinearLayout rootView,
+      @NonNull TextView dateToday, @NonNull DigitalClock digitalClock) {
     this.rootView = rootView;
-    this.employees = employees;
-    this.textView4 = textView4;
-    this.textView8 = textView8;
-    this.textView9 = textView9;
+    this.dateToday = dateToday;
+    this.digitalClock = digitalClock;
   }
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public LinearLayout getRoot() {
     return rootView;
   }
 
@@ -69,32 +60,20 @@ public final class ActivityEmployeeWorkingHoursBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.employees;
-      CardView employees = ViewBindings.findChildViewById(rootView, id);
-      if (employees == null) {
+      id = R.id.dateToday;
+      TextView dateToday = ViewBindings.findChildViewById(rootView, id);
+      if (dateToday == null) {
         break missingId;
       }
 
-      id = R.id.textView4;
-      TextView textView4 = ViewBindings.findChildViewById(rootView, id);
-      if (textView4 == null) {
+      id = R.id.digitalClock;
+      DigitalClock digitalClock = ViewBindings.findChildViewById(rootView, id);
+      if (digitalClock == null) {
         break missingId;
       }
 
-      id = R.id.textView8;
-      TextView textView8 = ViewBindings.findChildViewById(rootView, id);
-      if (textView8 == null) {
-        break missingId;
-      }
-
-      id = R.id.textView9;
-      TextView textView9 = ViewBindings.findChildViewById(rootView, id);
-      if (textView9 == null) {
-        break missingId;
-      }
-
-      return new ActivityEmployeeWorkingHoursBinding((ConstraintLayout) rootView, employees,
-          textView4, textView8, textView9);
+      return new ActivityEmployeeWorkingHoursBinding((LinearLayout) rootView, dateToday,
+          digitalClock);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -4,10 +4,11 @@ package com.jobando.jobandotrucking.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.LinearLayout;
+import android.widget.Button;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.jobando.jobandotrucking.R;
@@ -17,42 +18,37 @@ import java.lang.String;
 
 public final class ActivityEmployeeDeliveryInfoBinding implements ViewBinding {
   @NonNull
-  private final LinearLayout rootView;
+  private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView jobDetails;
+  public final Button getDirections;
 
   @NonNull
-  public final TextView jobLocation;
+  public final TextView jobAddress;
 
   @NonNull
-  public final LinearLayout linearLayout;
+  public final TextView jobDate;
 
   @NonNull
-  public final TextView place;
+  public final TextView jobDescription;
 
   @NonNull
-  public final View view1;
+  public final TextView locationTitle;
 
-  @NonNull
-  public final View view2;
-
-  private ActivityEmployeeDeliveryInfoBinding(@NonNull LinearLayout rootView,
-      @NonNull TextView jobDetails, @NonNull TextView jobLocation,
-      @NonNull LinearLayout linearLayout, @NonNull TextView place, @NonNull View view1,
-      @NonNull View view2) {
+  private ActivityEmployeeDeliveryInfoBinding(@NonNull ConstraintLayout rootView,
+      @NonNull Button getDirections, @NonNull TextView jobAddress, @NonNull TextView jobDate,
+      @NonNull TextView jobDescription, @NonNull TextView locationTitle) {
     this.rootView = rootView;
-    this.jobDetails = jobDetails;
-    this.jobLocation = jobLocation;
-    this.linearLayout = linearLayout;
-    this.place = place;
-    this.view1 = view1;
-    this.view2 = view2;
+    this.getDirections = getDirections;
+    this.jobAddress = jobAddress;
+    this.jobDate = jobDate;
+    this.jobDescription = jobDescription;
+    this.locationTitle = locationTitle;
   }
 
   @Override
   @NonNull
-  public LinearLayout getRoot() {
+  public ConstraintLayout getRoot() {
     return rootView;
   }
 
@@ -77,44 +73,38 @@ public final class ActivityEmployeeDeliveryInfoBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.job_details;
-      TextView jobDetails = ViewBindings.findChildViewById(rootView, id);
-      if (jobDetails == null) {
+      id = R.id.getDirections;
+      Button getDirections = ViewBindings.findChildViewById(rootView, id);
+      if (getDirections == null) {
         break missingId;
       }
 
-      id = R.id.job_Location;
-      TextView jobLocation = ViewBindings.findChildViewById(rootView, id);
-      if (jobLocation == null) {
+      id = R.id.jobAddress;
+      TextView jobAddress = ViewBindings.findChildViewById(rootView, id);
+      if (jobAddress == null) {
         break missingId;
       }
 
-      id = R.id.linear_layout;
-      LinearLayout linearLayout = ViewBindings.findChildViewById(rootView, id);
-      if (linearLayout == null) {
+      id = R.id.jobDate;
+      TextView jobDate = ViewBindings.findChildViewById(rootView, id);
+      if (jobDate == null) {
         break missingId;
       }
 
-      id = R.id.place;
-      TextView place = ViewBindings.findChildViewById(rootView, id);
-      if (place == null) {
+      id = R.id.jobDescription;
+      TextView jobDescription = ViewBindings.findChildViewById(rootView, id);
+      if (jobDescription == null) {
         break missingId;
       }
 
-      id = R.id.view1;
-      View view1 = ViewBindings.findChildViewById(rootView, id);
-      if (view1 == null) {
+      id = R.id.locationTitle;
+      TextView locationTitle = ViewBindings.findChildViewById(rootView, id);
+      if (locationTitle == null) {
         break missingId;
       }
 
-      id = R.id.view2;
-      View view2 = ViewBindings.findChildViewById(rootView, id);
-      if (view2 == null) {
-        break missingId;
-      }
-
-      return new ActivityEmployeeDeliveryInfoBinding((LinearLayout) rootView, jobDetails,
-          jobLocation, linearLayout, place, view1, view2);
+      return new ActivityEmployeeDeliveryInfoBinding((ConstraintLayout) rootView, getDirections,
+          jobAddress, jobDate, jobDescription, locationTitle);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

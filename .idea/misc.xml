@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/drawable/border.xml" value="0.303" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_admin_assign_job.xml" value="0.35643115942028986" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_admin_dashboard.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Jasel/AndroidStudioProjects/truckingsystem/app/src/main/res/layout/activity_admin_driver_registration.xml" value="0.35643115942028986" />

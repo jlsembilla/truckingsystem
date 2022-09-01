@@ -1,118 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingTop="40dp"
+    android:orientation="vertical"
     tools:context=".Employee_Working_Hours">
 
-    <androidx.cardview.widget.CardView
-        android:id="@+id/employees"
-        android:layout_width="match_parent"
+
+    <DigitalClock
+        android:id="@+id/digitalClock"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/baloo_bhai"
+        android:textSize="80dp" />
+
+    <TextView
+        android:id="@+id/dateToday"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="20dp"
-        android:backgroundTint="#e8e4c9"
-        app:cardCornerRadius="20dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        android:textStyle="italic"
+        android:textSize="20dp"
+        android:text="December 5, 2022"
+        android:layout_gravity="center"/>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginBottom="8dp"
-            android:layout_marginLeft="16dp"
-            android:layout_marginRight="16dp"
-            android:orientation="vertical">
-
-            <TextView
-                android:id="@+id/textView4"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textSize="26dp"
-                android:textStyle="bold"
-                android:textColor="@color/black"
-                android:text="Time In: " />
-
-            <TextView
-                android:layout_marginTop="3dp"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:text="7:20 AM"
-                android:textSize="20dp"
-                android:textStyle="bold"/>
-
-
-
-            <View
-                android:layout_marginTop="5dp"
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@color/teal_700"/>
-
-            <TextView
-                android:id="@+id/textView8"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textSize="22dp"
-                android:textStyle="bold"
-                android:textColor="@color/black"
-                android:text="Expected Time Out: " />
-
-            <TextView
-                android:layout_marginTop="3dp"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:text="5:20 PM"
-                android:textSize="20dp"
-                android:textStyle="bold"/>
-
-            <View
-                android:layout_marginTop="5dp"
-                android:layout_width="match_parent"
-                android:layout_height="1dp"
-                android:background="@color/teal_700"/>
-
-            <TextView
-                android:id="@+id/textView9"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:textSize="26dp"
-                android:textStyle="bold"
-                android:textColor="@color/black"
-                android:text="Break Hours " />
-
-            <LinearLayout
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="horizontal">
-
-                <TextView
-                    android:layout_marginTop="3dp"
-                    android:layout_width="160dp"
-                    android:layout_height="match_parent"
-                    android:text="12:00 PM"
-                    android:textSize="20dp"
-                    android:textStyle="bold"/>
-
-                <TextView
-                    android:gravity="right"
-                    android:layout_marginTop="3dp"
-                    android:layout_width="160dp"
-                    android:layout_height="match_parent"
-                    android:text="1:00 PM"
-                    android:textSize="20dp"
-                    android:textStyle="bold"/>
-
-
-            </LinearLayout>
-
-
-
-
-        </LinearLayout>
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
     </androidx.cardview.widget.CardView>
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+</LinearLayout>

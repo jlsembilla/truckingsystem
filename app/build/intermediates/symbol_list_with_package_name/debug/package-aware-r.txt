@@ -2556,6 +2556,7 @@ drawable addperson
 drawable addtask
 drawable avd_hide_password
 drawable avd_show_password
+drawable border
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2584,11 +2585,13 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
+drawable company
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable direct
 drawable email
 drawable file
 drawable googleg_disabled_color_18
@@ -2674,6 +2677,7 @@ drawable viewdrivers
 drawable viewjobs
 drawable warning
 drawable work
+font akaya_telivigala
 font baloo_bhai
 id ALT
 id BOTTOM_END
@@ -2838,6 +2842,7 @@ id custom
 id customPanel
 id cut
 id dark
+id dateToday
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -2852,6 +2857,7 @@ id design_menu_item_action_area_stub
 id design_menu_item_text
 id design_navigation_view
 id dialog_button
+id digitalClock
 id dimensions
 id direct
 id disableHome
@@ -2917,6 +2923,7 @@ id frontViewImage
 id frost
 id full_name
 id fullscreen_header
+id getDirections
 id ghost_view
 id ghost_view_holder
 id gone
@@ -2950,9 +2957,10 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
-id job_Location
+id jobAddress
+id jobDate
+id jobDescription
 id job_address_text
-id job_details
 id job_details_text
 id jumpToEnd
 id jumpToStart
@@ -2968,10 +2976,10 @@ id light
 id line1
 id line3
 id linear
-id linear_layout
 id listMode
 id list_item
 id locale
+id locationTitle
 id ltr
 id masked
 id match_constraint
@@ -3071,7 +3079,6 @@ id pathRelative
 id peekHeight
 id percent
 id pin
-id place
 id placeTitle
 id place_text
 id plateNumberText
@@ -3211,8 +3218,6 @@ id textView4
 id textView5
 id textView6
 id textView7
-id textView8
-id textView9
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3255,8 +3260,6 @@ id uploadFrontID
 id useLogo
 id usernametxt
 id vertical_only
-id view1
-id view2
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
