@@ -14,7 +14,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="705da2d0-6b69-48df-9cea-38e18cdf42d1" name="Default Changelist" comment="Delivery Info Done">
+    <list default="true" id="705da2d0-6b69-48df-9cea-38e18cdf42d1" name="Default Changelist" comment="Working Hours Layout Updated">
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res/debug/font_akaya_telivigala.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_res/debug/font/akaya_telivigala.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/5a0b5dcdbb48587a8487b38bd9e64e4d457fbe2574407ed6a0e65fa7fadb8397_0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/5a0b5dcdbb48587a8487b38bd9e64e4d457fbe2574407ed6a0e65fa7fadb8397_1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/5a0b5dcdbb48587a8487b38bd9e64e4d457fbe2574407ed6a0e65fa7fadb8397_2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/5a0b5dcdbb48587a8487b38bd9e64e4d457fbe2574407ed6a0e65fa7fadb8397_3.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
@@ -374,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662024863628</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Working Hours Layout Updated">
+      <created>1662028915408</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1662028915408</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,6 +408,7 @@
     <MESSAGE value="Uploading Driver's License" />
     <MESSAGE value="Assigning Job Done" />
     <MESSAGE value="Delivery Info Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delivery Info Done" />
+    <MESSAGE value="Working Hours Layout Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working Hours Layout Updated" />
   </component>
 </project>
