@@ -1,13 +1,10 @@
 package com.jobando.jobandotrucking;
 
 import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
-import android.nfc.Tag;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -16,17 +13,17 @@ import android.widget.Toast;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.Task;
-import com.google.firebase.firestore.DocumentReference;
-import com.google.firebase.firestore.DocumentSnapshot;
-import com.google.firebase.firestore.EventListener;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.google.firebase.firestore.FirebaseFirestoreException;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.google.firebase.firestore.QuerySnapshot;
 
-import org.w3c.dom.Document;
-
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
 import java.util.HashMap;
+import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
@@ -34,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
     FirebaseFirestore db;
     String  username, passcode, employeeType;
 
+    Employee_Checking_In_System checkingInSystem = new Employee_Checking_In_System();
     EmployeeID epv = new EmployeeID();
 
     @Override
@@ -93,6 +91,7 @@ public class MainActivity extends AppCompatActivity {
 
                                                                 epv.setEmployeeID(eid);
                                                                 epv.setEmployeeName(eName);
+                                                                checkingInSystem.setTimeIn(eid);
                                                             }
                                                         }
                                                     }
@@ -116,4 +115,5 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
 }
